@@ -4,3 +4,5 @@ _sites/
 media from coldfish/
 posts from coldfish/
 ColdFish/
+_site/
+/.jekyll-cache
