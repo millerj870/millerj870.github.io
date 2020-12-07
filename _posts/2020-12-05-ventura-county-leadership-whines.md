@@ -21,3 +21,5 @@ So let's look at their claim that commerce is not a source of spread for COVID-1
 Yes, contact tracing is hard and the people who are caught in the network of questions resist implicating hosts and guests of gatherings that could have spread the virus.  This difficulty erodes the quality of the data and weakens any arguments that rely on that data.  That county leaders claim the data shows businesses should be held harmless as the virus borns through our county is rediculous.  The data just does not show that or the opposite.
 
 As COVID-19 surges, county leaders needs to reflect on how they are communicating with citizens about the pandemic.  During 2020, they've been phoning.  Their strongest leadership takes the form of their consistent message, ``Community members are encouraged to wear masks, social distance, wash hands frequently and not gather.''  How well is this working out for us?
+
+XXXXX
