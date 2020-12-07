@@ -2,6 +2,7 @@
 title: Ventura County Leadership Whines About Sacramento
 author: jason
 layout: post
+tags: COVID-19
 ---
 
 Our county leadership, its Board of Supervisors and its Executive Officer, are not happy about California's new efforts to keep citizens safe during the global panedmic that it hitting our state hard.  One day after the governor announced a new regional approach to slowing the spread of COVID-19, one that will be triggered by a region's available intensive care unit (ICU) capacity dropping below 15%, the county's saw its region's available ICU capacity drop below 15%.  In a [message](https://vcportal.ventura.org/covid19/docs/2020-12-05_Stay_Home_Order_Triggered_in_Ventura_County_and_So_Cal_Region.pdf) sent out to the county on Saturday morning, our leadership gave voice to thei unhappiness with the governor's new public health meaure.
@@ -21,5 +22,3 @@ So let's look at their claim that commerce is not a source of spread for COVID-1
 Yes, contact tracing is hard and the people who are caught in the network of questions resist implicating hosts and guests of gatherings that could have spread the virus.  This difficulty erodes the quality of the data and weakens any arguments that rely on that data.  That county leaders claim the data shows businesses should be held harmless as the virus borns through our county is rediculous.  The data just does not show that or the opposite.
 
 As COVID-19 surges, county leaders needs to reflect on how they are communicating with citizens about the pandemic.  During 2020, they've been phoning.  Their strongest leadership takes the form of their consistent message, ``Community members are encouraged to wear masks, social distance, wash hands frequently and not gather.''  How well is this working out for us?
-
-XXXXX
