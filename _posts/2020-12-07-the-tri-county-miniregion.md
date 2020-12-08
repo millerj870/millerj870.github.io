@@ -1,5 +1,5 @@
 ---
-title: Ventura County Leadership Whines About Sacramento
+title: The Tri-County Mini-Region
 author: jason
 layout: post
 tags: COVID-19
