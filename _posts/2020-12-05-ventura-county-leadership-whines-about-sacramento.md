@@ -2,7 +2,8 @@
 title: Ventura County Leadership Whines About Sacramento
 author: jason
 layout: post
-tags: COVID-19
+date: 2020-12-05
+tags: COVID-19 public-policy
 ---
 
 Our county leadership, its Board of Supervisors and its Executive Officer, are not happy about California's new effort to keep citizens safe during the global panedmic.  One day after the governor announced the new regional approach to slowing the spread of COVID-19, one triggered when a region's available intensive care unit (ICU) capacity drops below 15%, the county saw its own region's available ICU capacity drop below 15%.  In a [message](https://vcportal.ventura.org/covid19/docs/2020-12-05_Stay_Home_Order_Triggered_in_Ventura_County_and_So_Cal_Region.pdf) sent out to the county on Saturday morning, leadership gave voice to their unhappiness with the governor.

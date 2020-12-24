@@ -3,6 +3,7 @@ title: Does the mRNA COVID-19 Vaccine Really Confer Immunity?
 author: jason
 layout: post
 date: 2020-12-19
+tags: COVID-19 biology
 ---
 
 People are excited to say that Pfizer-BioNTech's COVID-19 vaccine is `between 90% and 95% effective' but they are rarely specifying exactly what that means.  This is feeling a frowing gap between what the public understanding of the vaccine's effect (that it will stop the pandemic) and what scientists can say with any certainty about these new drugs.

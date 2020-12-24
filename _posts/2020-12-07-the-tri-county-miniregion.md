@@ -2,7 +2,7 @@
 title: The Tri-County Mini-Region
 author: jason
 layout: post
-tags: COVID-19
+tags: COVID-19 public-policy
 date: 2020-12-07
 ---
 

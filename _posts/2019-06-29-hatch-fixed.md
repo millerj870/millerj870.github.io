@@ -1,14 +1,9 @@
 ---
-author: admin
-comments: true
+author: jason
 date: 2019-06-29 22:41:29+00:00
 layout: post
-link: http://www.thecoldfish.com/2019/06/29/hatch-fixed/
-slug: hatch-fixed
 title: Hatch Fixed!
-wordpress_id: 984
-categories:
-- Land Cruiser
+tags: land-cruiser maker
 ---
 
 My attempts at fixing the rear hatch latch on my LC100 have succeeded. Here's a video of my printed part at work.
