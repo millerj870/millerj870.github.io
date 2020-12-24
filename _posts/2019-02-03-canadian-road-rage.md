@@ -6,14 +6,10 @@ title: Canadian Road Rage
 tags: funny
 ---
 
-> 
-> Canadian Road Rage
-Montreal 🇨🇦
-📹 lex_inker [pic.twitter.com/JG9XilZrCF](https://t.co/JG9XilZrCF)
-> 
-> 
-— Kelly Canuck🍁 (@KellyCanuckTO) [February 3, 2019](https://twitter.com/KellyCanuckTO/status/1092062362419556352?ref_src=twsrc%5Etfw)</blockquote>
+Been there.  Wanted to do that.
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Canadian Road Rage<br>Montreal 🇨🇦<br>📹 lex_inker <a href="https://t.co/JG9XilZrCF">pic.twitter.com/JG9XilZrCF</a></p>&mdash; Kelly Canuck🍁 (@KellyCanuckTO) <a href="https://twitter.com/KellyCanuckTO/status/1092062362419556352?ref_src=twsrc%5Etfw">February 3, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+Driving with snow obscuring your rear view is dangerous.
 
 
