@@ -1,4 +1,5 @@
 _sites/
+.DS_Store
 **/.DS_Store
 
 media from coldfish/
@@ -6,3 +7,4 @@ posts from coldfish/
 ColdFish/
 _site/
 /.jekyll-cache
+.sass-cache/
