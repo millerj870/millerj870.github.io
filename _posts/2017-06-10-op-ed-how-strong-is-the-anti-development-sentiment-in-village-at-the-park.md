@@ -1,0 +1,23 @@
+---
+author: jason
+date: 2017-06-10 21:51:40+00:00
+layout: post
+title: 'Op-Ed:  How Strong is the Anti-Development Sentiment in Village at the Park?'
+tags: politics local
+---
+
+_NOTE: This is a short piece I wrote for and posted to a neighborhood Facebook group on 3 June. I live in Village at the Park (VATP), and there’s a bit of a kerfuffle about plans to develop a vacant three-acre lot into am upscale, senior assisted living facility. I’m not against it. But people who are against it have twisted the truth a bit, and I wanted my other neighbors to know that these whiners are a relatively small group, despite the noise they are making. I also wanted to engage my neighbors in conversation on the topic. Ninety-seven comments so far, including a handful from me._
+
+This is a medium-length post for my neighbors in VATP who are watching the Not-In-My-Backyard (NIMBY) opposition to the Oakmont project and wondering how much support they have. I’ve done a little sleuthing and can tell you what I’ve learned. Spoiler: the NIMBYs represent a tiny minority of our neighbors.
+
+When it’s built, the Oakmont will be across the street from my home, so I’ve been interested in learning what I can about it and its impact on the neighborhood. When the “VATP - proposed oakmont facility” Facebook group was created, I saw it as an opportunity to learn more about the project. For some reason, my requests to join the group have been ignored or discarded. Since I couldn’t get any information from them, I decided to get some data about the group and use them to shed light on the group. Trigger warning: the following uses some mathematics and some basic inferential statistics.
+
+First, how big is our community? According to Redfin, there are 92 single family homes within one block of the Oakmont location. There are 277 single family homes within two blocks of the Oakmont location. (There may be as many as 499 additional single family homes in VATP that are more than two blocks away, but I won’t use this fact in what follows.)
+
+Second, how many of our neighbors oppose the Oakmont project? The “VATP - proposed oakmont facility” has 118 individual members. Of these 72 belong to the VATP Facebook group and 29 belong to the VATP Nextdoor.com community; 23 belong to both. Therefor, at least 78 of the “VATP - proposed oakmont facility” group members are our VATP neighbors. (Note that as many as 42 members are from outside the neighborhood.)
+
+Third, how many households oppose the Oakmont project, and where are they located in VATP? Members of Nextdoor.com share their location, so we can estimate where members of “VATP - proposed oakmont facility” live in relation to the Oakmont location. We can further use surnames to consolidate members into households. In this way, the 29 Nextdoor.com members represent at most 21 different households. According to Nextdoor.com, 5 of these 21 households (or 24%) are within one block of the Oakmont location, and 9 of these 21 households (or 42%) are within two blocks of the Oakmont location. Extrapolating to the entire “VATP - proposed oakmont facility” group membership, which represents about 101 households (an overestimate based only on consolidating by surnames), we calculate that about 24 member households are within one block of the Oakmont location and about 42 are within two blocks. But the group has members from outside VATP. Correcting for those 42 member households, there could be as few as 14 member households within one block of the Oakmont location and as few as 25 within two blocks.
+
+What does this tell us about the active opposition to the Oakmont facility? It tells us that about 15% of the households within one block of the Oakmont facility are actively opposing it, and 9% of households within two blocks are opposing it. (And remember that these numbers are overestimates.) The Oakmont opposition appears large and unified because they are organized (people came to my house five times to advocate against Oakmont) and because they are self-advocating. These are admirable qualities. But the numbers show that the group represents a very small minority of the neighborhood.
+
+Most of us in the neighborhood are happy to sit back and watch the NIMBY group (or should it be NIMFY?) spend time and money on their effort. We aren’t mounting a campaign against them because we know the vast majority of the neighborhood is indifferent to or in support of the Oakmont facility. Let’s all say “good riddance” to a weed-choked field and “welcome” to a beautiful building with residents that will further diversify the neighborhood.
