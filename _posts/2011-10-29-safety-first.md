@@ -6,4 +6,4 @@ title: Safety First
 tags: beer
 ---
 
-![Photo](/assets/images/photo.jpg.scaled.1000-300x224.jpg)
+![Photo](/assets/images/photo.jpg.scaled.1000.jpg)
