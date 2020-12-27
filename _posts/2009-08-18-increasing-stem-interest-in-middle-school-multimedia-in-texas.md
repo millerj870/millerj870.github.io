@@ -2,7 +2,7 @@
 author: jason
 date: 2009-08-18 20:22:31+00:00
 layout: post
-title: 'Increasing STEM interest in Middle School:  Multimedia in Texas'
+title: 'Increasing STEM interest in Middle School - Multimedia in Texas'
 tags: learning STEM
 ---
 

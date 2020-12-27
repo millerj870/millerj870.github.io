@@ -2,7 +2,7 @@
 author: jason
 date: 2009-09-09 07:08:52+00:00
 layout: post
-title: '#CollegeFail:  Graduation Rates Matter and US Universities are getting a failing grade'
+title: '#CollegeFail - Graduation Rates Matter and US Universities are getting a failing grade'
 tags: higher-education
 ---
 

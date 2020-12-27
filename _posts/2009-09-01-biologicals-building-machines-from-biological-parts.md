@@ -2,7 +2,7 @@
 author: jason
 date: 2009-09-01 04:02:33+00:00
 layout: post
-title: 'Biologicals:  Building Machines from Biological Parts'
+title: 'Biologicals - Building Machines from Biological Parts'
 tags: mathbio STEM technology
 ---
 

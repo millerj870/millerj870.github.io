@@ -2,7 +2,7 @@
 author: jason
 date: 2009-08-20 17:06:06+00:00
 layout: post
-title: Math Modeling & Public Health in Outbreaks
+title: Math Modeling and Public Health in Outbreaks
 tags: mathbio
 ---
 
