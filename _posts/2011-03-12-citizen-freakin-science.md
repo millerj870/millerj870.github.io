@@ -6,7 +6,7 @@ title: Citizen Freakin' Science
 tags: stem
 ---
 
-![P741](/assets/images/p741.jpg.scaled1000-300x223.jpg)
+![P741](/assets/images/p741.jpg.scaled1000.jpg)
 
 At the Plaza in KC, saw this setup on the sidewalk: an amateur astronomer giving anyone a quickie perk of the moon through this scope.  What a great way to bring science to the people!
 

@@ -6,7 +6,7 @@ title: 'Up and Up:  Still Winds Over Campus'
 tags: higher-education hackedu maker
 ---
 
-![Christian_and_sara_prepping](/asseets/images/christian_and_sara_prepping.JPG.scaled1000.jpg)
+![Christian_and_sara_prepping](/assets/images/christian_and_sara_prepping.JPG.scaled1000.jpg)
 
 Storms rolled through town Thursday night.  When they left, they took the breeze with them.  I was on campus all day, and the still treetops called to me, "Launch your balloons today."  But there was too much to do to get ready for the three-day camp next week.  Launching the balloons would be too much fun to feel right. 
 

@@ -6,7 +6,7 @@ title: 'Making and Edukating: a fun test leading to a big week'
 tags: higher-education hackedu stem maker
 ---
 
-In a little over a week, I play host to 33 junior high students from Kansas City who are going to come to <a href="http://www.truman.edu" title="Truman State University homepage" target="_blank">Truman</a>&rsquo;s campus and spend three days learning what college is like. For the last few weeks, I&rsquo;ve been madly putting a program together that leans somehow on model rocketry. What can be more fun that controlled explosions, right?
+In a little over a week, I play host to 33 junior high students from Kansas City who are going to come to <a href="http://www.truman.edu" title="Truman State University homepage" target="_blank">Truman</a>'s campus and spend three days learning what college is like. For the last few weeks, I've been madly putting a program together that leans somehow on model rocketry. What can be more fun that controlled explosions, right?
 
 I'm also going to do some low-altitude ballooning. (Balloons demonstrate another way to overcome the force of gravity.) My approach is based off the ["Helium Balloon Imaging Satellite"](http://makeprojects.com/Project/Balloon-Imaging-Satellite-/307/1) project in _Make Magazine_, volume 24. That project has some hidden pitfalls that I'll share if people are interested. For today, I want to show a picture of a rig I made to overcome a lack of a working helium canister (or regulator). I thought I'd test lofting my payload with a kite.
 
