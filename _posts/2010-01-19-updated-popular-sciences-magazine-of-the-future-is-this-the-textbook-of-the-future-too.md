@@ -1,12 +1,12 @@
 ---
 author: jason
-date: 2010-01-19 19:41:00+00:00
+date: 2010-01-19
 layout: post
-title: 'UPDATED:  Popular Science's Magazine of the Future.  Is this the Textbook of the  Future, too?'
+title: UPDATED - Popular Science's Magazine of the Future.  Is this the Textbook of the  Future, too?
 tags: ebook
 ---
 
-Just watched a video of a conceptual magazine fit for a table-like device. (More than a Kindle/Nook, less than the forthcoming Apple Tablet, probably.) The video explores Popular Science's vision for rich magazine content delivery, complete with thought out multitouch interaction with content, layout considerations, and user needs for search and sharing.</p>
+Just watched a video of a conceptual magazine fit for a table-like device. (More than a Kindle/Nook, less than the forthcoming Apple Tablet, probably.) The video explores Popular Science's vision for rich magazine content delivery, complete with thought out multitouch interaction with content, layout considerations, and user needs for search and sharing.
 
 Take a look for yourself. It's pretty dazzling and elegant. Could something like this work for a textbook? If so, how would one take content (like a set of course notes) and package them in this beautiful UI? Would this be something that only a publisher could do, or are there technologies out there that would allow the lone teacher to roll-their-own materials in this way? Apple's Quartz technology seems like a great candidate for building such a content-to-tablet workflow.
 

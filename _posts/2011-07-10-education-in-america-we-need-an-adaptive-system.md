@@ -2,7 +2,7 @@
 author: jason
 date: 2011-07-10 18:01:00+00:00
 layout: post
-title: Education in America:  We Need an Adaptive System
+title: Education in America - We Need an Adaptive System
 tags: higher-education STEM
 ---
 
