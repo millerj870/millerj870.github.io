@@ -14,5 +14,14 @@ Check back often if you want to see this post evolve.  Check back in late Januar
 
 * * *
 
+The [#Metagame bookclub](https://sites.google.com/site/metagamebookclub/spring2019) featured this book in June 2019, and it has some interesting resources:
+
+* basic quide to what is an algorithm: [Slate Magazine: "What’s the Deal With Algorithms? Your 101 guide to the computer codes that are shaping the ways we live."](http://www.slate.com/articles/technology/future_tense/2016/02/what_is_an_algorithm_an_explainer.html)
+* Another Slate magazine article, ["How to Teach Yourself About Algorithms 
+It involves a Car Talk Puzzler."](https://slate.com/technology/2016/02/how-to-teach-yourself-about-algorithms.html)
+* An essay ["A Case for Critical Public Interest Technologists"](https://points.datasociety.net/a-case-for-critical-public-interest-technologists-111d7ea3d384)
+
+* * *
+
 
 [^1]: Electronic copies of the text will be available for free download, and some hardcopies will be vailable, too, for those who need that format.
