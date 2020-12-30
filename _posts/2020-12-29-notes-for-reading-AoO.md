@@ -23,5 +23,14 @@ It involves a Car Talk Puzzler."](https://slate.com/technology/2016/02/how-to-te
 
 * * *
 
+The [Women's Center for Creative Work](https://womenscenterforcreativework.com/events/algorithms-of-oppression/) had a book club on this wook in Spring 2019.
+
+* * *
+
+https://digitalcommons.du.edu/cgi/viewcontent.cgi?article=1031&context=theliminal
+
+https://www.feminist.ai/aoo-book-club
+
+* * **
 
 [^1]: Electronic copies of the text will be available for free download, and some hardcopies will be vailable, too, for those who need that format.
