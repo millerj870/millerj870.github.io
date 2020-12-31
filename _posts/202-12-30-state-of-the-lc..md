@@ -6,8 +6,19 @@ title: State of the LC, 30 December 2020
 tags: land-cruiser
 ---
 
+It's been a long time since I updated these running lists of work on the rig, so I'm going to split short descriptions of work from this thread and link laterally.
 
 
+Here are short write-ups on:
+
+* [getting larger tires](/2020/12/30/lc-snowchains) and making sure they didn't outgrow my snow chains,
+* using [hot glue](/2020/12/30/hot-glue) to repair a piece of plastic I broke while working on the DS door panel, and using it to fix the seat-back mesh on the DS seat, and
+* working on an [electrical problem](/2020/12/28/state-of-the-LC-201228) that comes with the winter rains and that I should ahve fized last spring.
+
+A couple other projects that I've been working on:
+* replacing the DS bumper reflector that had been cracket at Yosemite last Thanksgiving (COMPLETE),
+* investigating why the PS front window won't roll down, and
+* figuring out what I want to do about the worm out speakers in the rig.  (Answer:  get refoam kits to repair them.)
 
 * * *
 
@@ -51,4 +62,4 @@ COMPLETED
   16. repaired water leak that drips onto the feet of the LC passenger (first row) when A/C is running; used 3M strip caulk (need to check the name) to replace the gasket that was failing.  Noted a bunch of gunk in the air filter space, but could only get some out.  Wife was impressed that I did this myself.
   17. Upgraded to Michelen Defender LTX M/S 275/65R18 (32 inch) tires.  The rig looks good!
   18. Built a sleeping platform for the back that comes apart, allowing a table to be present in the third-row area at all times; an extension lays down over the folded down back seats.  I'm sure I'll want to fiddle with this design some.
-  19. Started [fixing the saggy mesh nets](./2020-12-30-hot-glue.html) on the back of the front seats.
+  19. Started [fixing the saggy mesh nets](/2020/12/30/hot-glue) on the back of the front seats.
