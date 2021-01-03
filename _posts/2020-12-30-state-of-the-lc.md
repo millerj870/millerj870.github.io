@@ -41,7 +41,7 @@ The tasks on my list (not in any particular order):
     2. second, rear bumper (Dissent Off-Road?)
     3. third, front bumper (Dissent Off-Road, too?  Addicted Off-Road?)
   13. [portable compressor](https://www.amazon.com/Viair-00088-88P-Portable-Compressor/dp/B005ASY23I/ref=sr_1_fkmr0_1?ie=UTF8&qid=1534568292&sr=8-1-fkmr0&keywords=VAIAR+88P+compressor) for airing up, or CO<sub>2</sub> system for airing up.
-  14. The torsion bars probably need a crank.  My mechanic, Shady, said I could give the rig to him and he'd bring it to his alignment place.  ``If you adjust the torsion, you need to be careful with alignment,'' he said.  I don't know if I believe him.  Fact check: [sound advice here](https://forum.ih8mud.com/threads/torsion-bar-alignment-risk.1218093/post-13219602), and video instructions [here](https://forum.ih8mud.com/threads/torsion-bar-alignment-risk.1218093/post-13225529).
+  14. The torsion bars probably need a crank.  My mechanic, Shady, said I could give the rig to him and he'd bring it to his alignment place.  ``If you adjust the torsion, you need to be careful with alignment,'' he said.  I don't know if I believe him.  Fact check: [sound advice here](https://forum.ih8mud.com/threads/torsion-bar-alignment-risk.1218093/post-13219602), and video instructions [shared here](https://forum.ih8mud.com/threads/torsion-bar-alignment-risk.1218093/post-13225529) and linked [here](https://www.google.com/search?q=100+series+torsion+bar+adjustment&oq=100+series+torsion+bar+adjustment&aqs=chrome..69i57j0l2.5719j1j7&sourceid=chrome&ie=UTF-8#kpvalbx=_hmUPX9nXJLqIytMP1YmxoAQ30).
 
 COMPLETED
 
