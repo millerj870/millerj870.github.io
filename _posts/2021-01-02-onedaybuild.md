@@ -6,7 +6,7 @@ layout: post
 tags: maker
 ---
 
-Today, I pursued some inspiration from the @donttrythis one-day-build where he fixed up a worktable in his lair and created custom dividers for drafting tools that lived in that table's drawer.  That one day build opened my eyes to the power of a hot glue gun and made me see how my work space (my cluttered garage) would benefit from a work table like Savage's.
+Today, I pursued some inspiration from the [@donttrythis](https://twitter.com/donttrythis) one-day-build where he [fixed up a worktable](https://youtu.be/frwLir1A_qg) in his lair and created [custom dividers for drafting tools](https://youtu.be/csu4jQNFfzA) that lived in that table's drawer.  That one day build opened my eyes to the power of a hot glue gun and made me see how my work space (my cluttered garage) would benefit from a work table like Savage's.
 
 After getting my hands on a FastenMesser adjustable temperature glue gun[^1], I found a workbench for sale on Facebook Marketplace.  The bench had been in a bike shop (a good selling point for me, as I used to work in one), had four drawers, and was long and narrow (20 inches by 60 inches).  I talked the selled down by 25% and picked it up.  First inspection revealed that it was a bit wobbly side-to-side, but I knew how to deal with that, thanks to the one-day-build video.
 
