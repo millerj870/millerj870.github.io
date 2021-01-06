@@ -3,6 +3,8 @@ layout: default
 title: Beer Sale Items
 ---
 
+## Selling My Brewing Tools
+
 Homebrewing became one of my hobbies in 1999.  I started brewing extract kits and eventually learned the skill of all grain brewing.  Living in rual America before the craft beer explosion, homebrewing was the most enjoyable way to get fresh, excellent beer.  Now that I live in Southern California, fresh affordable beer is a short walk from home, and my homebrewing kit has been gathering dust.  It's time my trusty gear find another home so it can help someone else enjoy this craft.
 
 This web page lists my gear that is for sale.  As items sell, I will mark them sold here.  (When the number of sold items grows enough, I'll make a separate 'sold' section for the page.)
@@ -53,7 +55,7 @@ All items will also be advertised on Facebook Marketplace and possibly CraigsLis
 |[12 gallon Mega Pot boil kettle, etched, with ball valve](https://www.midwestsupplies.com/products/15-gal-megapot-1-2?variant=4.10425E+12&gclid=CjwKCAiAudD_BRBXEiwAudakX2m8Rs0fdloVGyQIqpxt1OEMCs40mV4XHZ4SSkWxTUxj-OI2wvfapxoCLbEQAvD_BwE) | High quality MegaPot with ball valve and thermometer.  interior wall is etched with gallon levels to aid in cooking.  |$150 |[![](/assets/images/beersale/beersale-boilkettle1-thumbnail.jpg)](/assets/images/beersale/beersale-boilkettle1.jpg)[![](/assets/images/beersale/beersale-boilkettle2-thumbnail.jpg)](/assets/images/beersale/beersale-boilkettle2.jpg)|
 |[Carboy wedges](https://www.homebrewing.org/Carboy-Wedge_p_1714.html) | hard to find (though probably 3D-printable) wedges to tilt carboys while siphoning.  Lot. |$1 |[![](/assets/images/beersale/beersale-carboywedges-thumbnail.jpg)](/assets/images/beersale/beersale-carboywedges.jpg)|
 |[Keggerator manifold, 2-way, with connectors](https://www.midwestsupplies.com/products/3-way-co2-distributor-1-4-barb) | Use one dual guage regulator and one CO2 container to run up to three kegs with this manifold, hoses, and connectors.  Set up for two kegs.  |$40 |[![](/assets/images/beersale/beersale-CO2manifold-thumbnail.jpg)](/assets/images/beersale/beersale-CO2manifold.jpg)|
-|[Lauter tun and Mash tun with false bottom](https://www.midwestsupplies.com/products/northern-brewer-all-grain-system) | Essential for all-grain brewing, these insulated containers keep your water and wort at temperature.  The mash tun's false bottome makes it easy to work with large quantities of grains.  |$200 |[![](/assets/images/beersale/beersale-lautermash-thumbnail.jpg)](/assets/images/beersale/beersale-lautermash.jpg)|
+|[Lauter tun and Mash tun with false bottom](https://www.midwestsupplies.com/products/northern-brewer-all-grain-system) | Essential for all-grain brewing, these insulated containers keep your water and wort at temperature.  The mash tun's false bottom makes it easy to work with large quantities of grains.  |$200 |[![](/assets/images/beersale/beersale-lautermash-thumbnail.jpg)](/assets/images/beersale/beersale-lautermash.jpg)|
 
 <!--
 |[NAME](SOURCE-URL) | Replacement  |$NN |[![](/assets/images/beersale/beersale-FILENAME-thumbnail.jpg)](/assets/images/beersale/beersale-FILENAME.jpg)|
