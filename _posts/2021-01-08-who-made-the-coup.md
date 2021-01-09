@@ -73,6 +73,12 @@ UPDATE:  I [just learned](https://www.alreporter.com/2021/01/07/alabama-ag-leads
 
 UPDATE 2:  It just occured to me that the wikipedia pages for the above elected officials do not report their involvement in leading the failed coup attempt.  This would be a great weekend task for anyone who has a few minutes per person.  (2021-01-09)
 
+UPDATE 3:  To save face, some of the above (and others) claim the attempted coup was not violent.  This is an example of the tone in the Capitol building.  Remember, shortly before this, the President Trump described himself as betrayed by Vice president Pence and the crowd wants revenge on Trump's behalf.  This crowd killed five people.  This is the mayhem those listed above must be held accountable four.
+
+<video width="480" controls="controls">
+  <source src="/assets/media/coup-hang-mike-pence.mp4" type="video/mp4">
+</video>
+
 * * * 
 
 [^0]: There is documentary video evidence that some Capitol Police officers may have been complicit with the insurrectionists.
