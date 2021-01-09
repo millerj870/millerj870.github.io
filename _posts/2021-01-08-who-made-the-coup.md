@@ -6,7 +6,7 @@ date: 2021-01-08
 tags: politics
 ---
 
-Everyone knows that Donald J. Trump fomented the attempted coup of 6 January 2020 that resulted in five deaths and massive property destruction (including cybersecurity breach).  Unless you were a decision-maker for law enforcment[^0] in Washington, DC, you expected something wild to happen in DC on that day.  (See footnotes.)  The rally was based on a Trump lie; that the presidential election was stolen from him.
+Everyone knows that Donald J. Trump fomented the [attempted coup](https://en.wikipedia.org/wiki/2021_storming_of_the_United_States_Capitol) of 6 January 2020 that resulted in five deaths and massive property destruction (including cybersecurity breach).  Unless you were a decision-maker for law enforcment[^0] in Washington, DC, you expected something wild to happen in DC on that day.  (See footnotes.)  The rally was based on a Trump lie; that the presidential election was stolen from him.
 
 On Wednesday, he stood behind the podium at the "stop the steal" rally[^3] and egged on the mob, encouraging them to march down Pennsylvania Avenue to the nation's Capitol.
 
@@ -78,6 +78,10 @@ UPDATE 3:  To save face, some of the above (and others) claim the attempted coup
 <video width="480" controls="controls">
   <source src="/assets/media/coup-hang-mike-pence.mp4" type="video/mp4">
 </video>
+
+UPDATE:  I should have added [Ginni Thomas](https://en.wikipedia.org/wiki/Virginia_Thomas) to one of these lists.
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">On the morning of Jan. 6, Ginni Thomas—wife of Supreme Court Justice Clarence Thomas—endorsed the protest demanding that Congress overturn the election, then sent her “LOVE” to the demonstrators, who violently overtook the Capitol several hours later. She has not posted since. <a href="https://t.co/378CHMkFN5">pic.twitter.com/378CHMkFN5</a></p>&mdash; Mark Joseph Stern (@mjs_DC) <a href="https://twitter.com/mjs_DC/status/1347395084527017985?ref_src=twsrc%5Etfw">January 8, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 * * * 
 
