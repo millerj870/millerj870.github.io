@@ -61,11 +61,17 @@ Fifth, there were some state-level elected representative who joined the mob's i
 * [Illinois State Representative Chris Miller](https://en.wikipedia.org/wiki/Chris_Miller_(politician)), see [this](https://twitter.com/MarkMaxwellTV/status/1347236821512695810), and [this](https://twitter.com/Acer3752/status/1347315438359896066).
 * [Illinois State Representative Mary Miller](https://en.wikipedia.org/wiki/Mary_Miller_(politician)): see [this](https://people.com/politics/rep-mary-miller-praised-hitler-speech-lawmakers-condemn/), and [this](https://www.nbcchicago.com/news/local/chicago-politics/state-lawmakers-call-on-illinois-congresswoman-who-invoked-hitler-to-resign/2410343/).
 
+Sixth, there are the men and women who lead right-wing antigovernment groups like the Proud Boys, the III%ers, America First, and so forth, and I would like to list those names (with links to profiles, too), but I don't know how to systematically go about gathering that information in a fair and relatively complete way.
+
 Are there others?
 
 All need to be held accountable.  Decisions have consequences.  We must not let anyone talk their way out of accountability.
 
 What should the consequences be?  I'll leave that to the courts.
+
+UPDATE:  I [just learned](https://www.alreporter.com/2021/01/07/alabama-ag-leads-nonprofit-that-helped-organize-march-at-capitol/) (and [here](https://twitter.com/robertcaruso/status/1347795777893126144)) of the Republican Attorneys General Association and its role in the coup attempt.  Who from those ranks should be pulled into this list? (2021-01-08)
+
+UPDATE 2:  It just occured to me that the wikipedia pages for the above elected officials do not report their involvement in leading the failed coup attempt.  This would be a great weekend task for anyone who has a few minutes per person.  (2021-01-09)
 
 * * * 
 
