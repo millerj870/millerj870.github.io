@@ -3,7 +3,7 @@ title: Who led the Insurrection?
 layout: post
 author: jason
 date: 2021-01-08
-tags: politics
+tags: politics, coup
 ---
 
 Everyone knows that Donald J. Trump fomented the [attempted coup](https://en.wikipedia.org/wiki/2021_storming_of_the_United_States_Capitol) of 6 January 2020 that resulted in five deaths and massive property destruction (including cybersecurity breach).  Unless you were a decision-maker for law enforcment[^0] in Washington, DC, you expected something wild to happen in DC on that day.  (See footnotes.)  The rally was based on a Trump lie; that the presidential election was stolen from him.

@@ -3,7 +3,7 @@ title: Who Incited the Violence?
 author: jason
 date: 2021-01-07
 tags: politics
-layout: post
+layout: post, coup
 ---
 
 Yesterday, President Trump made history.  He is the first American President to incited violence in an effort to overturn an election.  He led the first American coup attempt.  For weeks, Trump had been rallying his base for mobbing Washington DC on the day Congress would certify the Electoral College vote.  
@@ -157,7 +157,7 @@ U.S. Representatives who challenged certification of electoral college ballots (
 2. Rep. Greg Steube FL
 2. Rep. Chris Stewart UT
 2. Rep. Glenn Thompson PA
-2. Rep. Tom Tiffany WI
+2. [Rep. Tom Tiffany WI](https://wisconsinexaminer.com/2021/01/14/tiffany-capitol-violence-rally-mckenna/)
 2. Rep. William Timmons SC
 2. Rep. Jeff Van Drew NJ
 2. Rep. Beth Van Duyne TX
