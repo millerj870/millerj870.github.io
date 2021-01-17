@@ -19,6 +19,8 @@ Here is a link to a project started George Washington University *Program on Ext
 
 Here's the link the program's [https://extremism.gwu.edu/Capitol-Hill-Cases](https://extremism.gwu.edu/Capitol-Hill-Cases) page.
 
+It also looks like the US Department of Justice has a page for [Investigations Regarding Violence At The Capitol](https://www.justice.gov/opa/investigations-regarding-violence-capitol).  It lists complaints and has links to charging documents and supporting documents.
+
 [^1]: This year, American's have been shown that white supremacy and white nationalism runs deep in our society and systems, so we need to be aware of systemic 'implicit bias' (if we can call it that) and work to make sure that our courts dispense justice fairly.  This won't be easy.
 
 
@@ -41,6 +43,8 @@ https://www.washingtonpost.com/local/virginia-politics/bob-good-capitol-attack/2
 
 4. Melody Black, Minnesota: [[1]](https://twitter.com/RaquelEvita/status/1348786633064280064),[[2]](https://twitter.com/kpottermn/status/1348461069203877888),at 4:42 in  [[3]](https://twitter.com/girlsreallyrule/status/1347680866349305859)
 
+9. Matthew Bledsoe: [[1]](https://twitter.com/alanfeuer/status/1350129506699407360), [[2]](https://www.justice.gov/opa/page/file/1355121/download),[[3]](https://www.justice.gov/opa/page/file/1355126/download)
+
 1. Larry Brock: [[1]](https://twitter.com/KlasfeldReports/status/1348729900333748225).[[2]](https://lawandcrime.com/2020-election/2-men-who-brought-restraints-into-senate-during-d-c-insurrection-have-been-arrested-authorities/)
 
 1. Jenny Cudd: [[1]](https://www.cbs7.com/2021/01/13/first-on-cbs7-fbi-arrests-jenny-cudd-for-rioting-at-capitol/)
@@ -48,13 +52,14 @@ https://www.washingtonpost.com/local/virginia-politics/bob-good-capitol-attack/2
 7. Tim Davis, Oregon: [[1]](http://clypian.com/2021/01/12/an-oregon-mans-violent-road-to-dc-tim-davis-oregon-protests/)
 
 1. Kristopher Dreww and Michelle Peterson, Huntington Beach, CA: [[1]](https://www.latimes.com/california/story/2021-01-12/huntington-beach-far-right-activists-were-at-u-s-capitol-during-riot)
- 
+
+8. Hunter Ehmke, 20: [[1]](https://www.justice.gov/opa/page/file/1353886/download),[[2]](https://www.justice.gov/opa/page/file/1353881/download)
+
 4. NRCC Chair Representaitive Tom Emmer (a two-fer, I guess): [[1]](https://twitter.com/daveweigel/status/1348667918138093573)
 
 5. Eduard Florea, 40: [[1]](https://twitter.com/Pervaizistan/status/1349191255184580611)
 
 6. Jacob Fracker: [[1]](https://twitter.com/awprokop/status/1349470679759020039)
-
 
 2. Simone Gold: [[1]](https://twitter.com/jonswaine/status/1349004348668436483),[[2]](https://www.washingtonpost.com/investigations/simone-gold-capitol-riot-coronavirus/2021/01/12/d1d39e84-545f-11eb-a817-e5e7f8a406d6_story.html)
 
@@ -77,15 +82,21 @@ https://www.washingtonpost.com/local/virginia-politics/bob-good-capitol-attack/2
 
 2. Eric Munchel, 30, TN; and Lisa Eisenhart, 57: [[1]](https://twitter.com/jimmykimmel/status/1349042346353020928),[[2]](https://nypost.com/2021/01/10/capitol-rioter-in-paramilitary-gear-breached-building-with-mom-report/), [[3]](https://lawandcrime.com/2020-election/2-men-who-brought-restraints-into-senate-during-d-c-insurrection-have-been-arrested-authorities/)
 
+9. Prosecutors unseal charges against Dominic Pezzola, aka Spaz, a Proud Boys members and former Marine who led the charge on the Capitol. [[1]](https://www.justice.gov/opa/page/file/1355181/download),[[2]](https://www.justice.gov/opa/page/file/1355186/download)
+
 3. Capt. Emily Rainey, U.S. Army Psychological Operations Officer: [[1]](https://www.thedailybeast.com/army-probes-psy-ops-officer-who-led-group-of-100-people-to-dc-maga-riot), [resigns](https://www.cbsnews.com/news/emily-rainey-fort-bragg-captain-resigngs-washington-rally-army-investigating/)
 
 5. Jason D. Riddle of Keene, NH, a former corrections officer and mail carrier: [[1]](https://www.sentinelsource.com/news/local/keene-man-among-those-who-breached-capitol-troy-chief-at-d-c-protest/article_6eec58f7-e766-5446-862c-21d2034bdc8e.html)
+
+9. Robert Sanford, the retired PA firefighter who has been charged in the DC riot: [[1]](https://www.justice.gov/usao-dc/pr/retired-pennsylvania-fire-fighter-arrested-and-criminally-charged-actions-us-capitol),[[2]](https://www.justice.gov/opa/page/file/1353921/download), [[3]](https://www.justice.gov/opa/page/file/1353926/download)
 
 7. Kevin Seefried was arrested in Delaware - confederate flag man - along with his son, Hunter: [[1]](https://abc7news.com/9656131/?ex_cid=TA_KGO_TW&taid=600086adca16ed00014fc3be&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter), [[2]](https://twitter.com/ryanjreilly/status/1349791707047600128), [[3]](https://www.justice.gov/usao-dc/press-release/file/1354306/download)
 
 7. John Earle Sullivan, Utah: [[1]](https://www.justice.gov/usao-dc/pr/utah-man-charged-federal-court-following-events-united-states-capitol)
 
 6. Sergeant Thomas Robertson: [[1]](https://wset.com/amp/news/local/officer-speaks-out-about-selfie-taken-with-coworker-inside-us-capitol-during-protests?__twitter_impression=true)
+
+8. Jennifer Ryan:[[1]](https://assets.documentcloud.org/documents/20456230/1-15-21-us-v-jennifer-ryan-complaint-statement.pdf)
 
 5. Peter Stager of Arkansas: [[1]](https://twitter.com/DavidBegnaud/status/1349836624994070528)
 

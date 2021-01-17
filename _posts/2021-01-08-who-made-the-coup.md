@@ -34,7 +34,7 @@ Third, there are elected and administrative leaders who poured gasoline on the f
 * Representative Mo Brooks (Alabama)
 * Representatieve Paul Gosar (Arizona)
 * Representative Marjorie Greene (Georgia)
-* Representative Lauren Boebert (Colorado)
+* Representative Lauren Boebert (Colorado): [[1]](https://www.steamboatpilot.com/news/68-elected-officials-in-cd3-condemn-boebert-ask-for-investigation-into-conduct/)
 * Representative Lance Gooden (Texas)
 * Representative Ted Budd (North Carolina)
 * [Georgia State Represenatative Vernon Jones](https://en.wikipedia.org/wiki/Vernon_Jones)
