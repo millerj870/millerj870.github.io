@@ -41,12 +41,3 @@ Meanwhile, Jack is still feeling fatigued.  He still has little or no appetite. 
 Doctors are holding back on doing more for Jack's kidneys, reevaluating the evidence each day.  Today, the good news is that it looks like the creatinine levels have stabilized.  Further test on spinal fluid suggest something strange is happening there.
 
 On the one hand, we are in a wait-and-see situation.  Jack is more comfortable, now, and more able to try to get out of bed and walk.  This will be helpful as we wait another day or two for test results that illuminate what's happening inside him, somewhere.
-
-
-
-
-
-
-
-
-
