@@ -12,7 +12,7 @@ If you want to send Jack or Naomi a message, you can email your message to [jack
 
 ## Today's News
 
-Jack continues to move in a 'better' direction that includes physical activity, eating, and lab results (_e.g._, kidney creatinine measurements are static at 7.9 versus yesterday's 7.7).  Doctors are still scratching their heads about what put Jack in the hospital.  Today, a neurologist cast doubt on Jack's original diagnosis of experiencing a TIA, citing the possibility of virgal meningitis.  The best message came from the hospitalist, "If Jack continues to improve, there no need for more tests."  And not tests means no waiting for results.  No need to wait means discharge (so long as Jack is strong enough).
+Jack continues to move in a 'better' direction that includes physical activity, eating, and lab results (_e.g._, kidney creatinine measurements are static at 7.9 versus yesterday's 7.7).  Doctors are still scratching their heads about what put Jack in the hospital.  Today, a neurologist cast doubt on Jack's original diagnosis of experiencing a TIA, citing the possibility of viral meningitis.  The best message came from the hospitalist, "If Jack continues to improve, there no need for more tests."  And not tests means no waiting for results.  No need to wait means discharge (so long as Jack is strong enough).
 
 Not having a firm diagnosis on the cause of Jack's illness is hard on everyone, but we are all relieved that his health appears to be turning a corner.
 
