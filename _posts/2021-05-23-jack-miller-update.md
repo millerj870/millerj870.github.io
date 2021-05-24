@@ -10,7 +10,7 @@ On Saturday, Jack's nephralogist (kidney doctor) told Jack, "If the numbers impr
 
 The doctor made good on his promise.  Jack's creatinine measure was lower today, and all the specialists agreed he coiuld be discharged.  So Jack didn't dilly-dally signing papers to get back home.
 
-[![Jack and Naomi, at home, on the deck.](/assets/images/jackathome_cropped.png)](/assets/images/jackathome_cropped.png)
+[![Jack and Naomi, at home, on the deck.](/assets/images/jackathomecropped.png)](/assets/images/jackathomecropped.png)
 
 This is great news for everyone, but Jack wants you to know he's not out of the woods yet.  The six specialists never agreed about what put him in the hospital in the first place.  That's a mystery that needs to be solved.  Jack's not back at his full strength, yet, and experiences a little dizziness when he moves around, but we're he'll get stronger as he eats and exercises at home with family.  The oncologists say the thymoma is not a critical issue at this time, but it needs to come out.  We are seeking another opinion on this, hopefully through the Mayo Clinic in Rochester, but that is in the hands of the oncologist and feels out of our control.
 
