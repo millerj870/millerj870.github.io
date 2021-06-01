@@ -6,7 +6,7 @@ date: 2021-06-01
 tags: jack
 ---
 
-This morning, Jack and Naomi had a Zoom appointment with a Thorasic Surgery professional from the Mayo Clinic in Rochester, MN.  Jason and Tim joined the conversation remotely.  The purpose of the meeting was to review the Mayo's assessment of Jack's case.  None of the Millers knew where the meeting would lead.  Would the Mayo take Jack's case?  Would they say it wasn't interesting to them?
+This morning, Jack and Naomi had a Zoom appointment with a Thorasic Surgery professional from the Mayo Clinic in Rochester, MN.  Jason and Tim joined the conversation remotely.  The purpose of the meeting was to review Mayo's assessment of Jack's case.  None of the Millers knew where the meeting would lead.  Would the Mayo take Jack's case?  Would they say it wasn't interesting to them?
 
 Here's what Jack wrote about the meeting afterward:
 
