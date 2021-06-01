@@ -16,4 +16,4 @@ This morning Jack has a Zoom 'video appointment' call with Mayo.  The meeting is
 
 In the meantime, Jack's doing marginally better.  Early this morning, Naomi cajoled Jack's doctor into telling her the results from his blood test last Wednesday (May 26th):  his creatinine was down to 4.5!  (If that rate of decrease continues, his kidneys should be at about 2.5, today.  But that's just a guess.  We won't know without another test.)
 
-Jack and Naomi thank you for your caring and especially for your prayers.  Often times during these days we’ve been saying to each other “All will be well ...” and we sincerely believe that.
+Jack and Naomi thank you for your caring and especially for your prayers.  Often times during these days we’ve been saying to each other, “All will be well ...” and we sincerely believe that.
