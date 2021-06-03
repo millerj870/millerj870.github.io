@@ -14,6 +14,8 @@ Translation:  the Mayo medical team still agree's that Jack's thymoma needs to b
 
 This is welcome news to the Millers.  Somebody is going to look at Jack's healthy journey in May and see if they can find a cause or causes for his hospital visits.  The thymoma didn't put him in the hospital; it was discovered by accident.  What put him there?  A mini-stroke?  Memingitis?  West Nile virus?  
 
-The Mayo Clinic is moving fast!  It looks like Jack will have a meeting with a doctor of general internal medicine on 9 June, and a meeting with the surgeon (Dr. Cassivi) on 11 June.  In the meantime, we'll continue to update these posts as we can.  
+The Mayo Clinic is moving fast!  It looks like Jack will have a face-to-face meeting with a doctor of general internal medicine on 9 June in Rochester, and a meeting with the surgeon (Dr. Cassivi) on 11 June via Zoom.  In the meantime, we'll continue to update these posts as we can.  
 
 Remember that you can send Jack a personal message by emailing him at [jack@scroungers.me](mailto:jack@scroungers.me).  He'd love to hear from you.
+
+*Updated* to reflect the locations of the two meetings with Mayo Clinic doctors.
