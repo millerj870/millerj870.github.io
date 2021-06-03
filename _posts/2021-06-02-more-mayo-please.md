@@ -18,4 +18,4 @@ The Mayo Clinic is moving fast!  It looks like Jack will have a face-to-face mee
 
 Remember that you can send Jack a personal message by emailing him at [jack@scroungers.me](mailto:jack@scroungers.me).  He'd love to hear from you.
 
-*Updated* to reflect the locations of the two meetings with Mayo Clinic doctors.
+**Updated** to reflect the locations of the two meetings with Mayo Clinic doctors.
