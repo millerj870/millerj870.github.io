@@ -3,7 +3,7 @@ title: State of the LC - 15 January 2021
 author: jason
 layout: post
 date: 2021-01-15
-tags: landcruiser
+tags: land-cruiser
 ---
 
 Before the pandemic, my landcruiser was a daily driver (unless I was bicycle commuting) that I also wanted to use as a camping and backpacking asset.  I imagined that it could help my family access remote camp sites and trailheads away from the car camping crowds and [pandemic-era backpackers](https://www.washingtonpost.com/lifestyle/travel/camping-hiking-book-sales/2020/10/08/fdedcf0c-fd26-11ea-9ceb-061d646d9c67_story.html).  Today, I was taught how to do that.

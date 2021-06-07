@@ -3,7 +3,7 @@ title: State of the LC, April 2021 --  Recharging my own AC
 author: Jason
 layout: post
 date: 2021-06-06
-tags: landcruiser
+tags: land-cruiser
 ---
 
 A month or two ago, my wife and I are driving the LC to go on a hike.  The air temps here in Southern California were still cool but the strong sun could heat up the LC's cabin quickly enough to make my wife and I want to turn on the AC.  After a few moments of fiddling with our 2005's integrated stereo and climate control system, we had the AC on with the fan gently blowing, waiting to be cooled down.  It didn't take us long to realize that not much was happening.   The AC wasn't blowing cold.
