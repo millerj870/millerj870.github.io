@@ -14,6 +14,6 @@ I headed over to the local Napa auto parts store where an employee advised me on
 
 I bought what the Napa guy recommended.  (The items are pictured below along with the connection point to my rig's AC system.)  I did what the YouTube guy [said I should](https://www.youtube.com/watch?v=n4HrXEBN2bE).  And I'll never ask my local auto shop to recharge my AC ever again.
 
-[![The two items I bought at Napa, connected](/assets/images/napa-recharge-ac-thumbnail.jpg)](/assets/images/napa-recharge-ac.png)
+[![The two items I bought at Napa, connected](/assets/images/napa-recharge-ac-thumbnail.png)](/assets/images/napa-recharge-ac.png)
 
-[![The connector for the AC system recharge](/assets/images/lc-ac-recharge-connector-thumbnail.jpg)](/assets/images/lc-ac-recharge-connector.png)
+[![The connector for the AC system recharge](/assets/images/lc-ac-recharge-connector-thumbnail.png)](/assets/images/lc-ac-recharge-connector.png)
