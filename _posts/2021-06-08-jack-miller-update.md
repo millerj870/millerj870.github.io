@@ -1,5 +1,5 @@
 ---
-title: Update of Jack's Health, 8 June
+title: Update on Jack's Health, 8 June
 author: Jason
 layout: post
 date: 2021-06-08
