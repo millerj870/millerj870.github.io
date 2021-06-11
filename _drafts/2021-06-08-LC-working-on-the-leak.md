@@ -18,3 +18,10 @@ First, I grabbed a length of plastic weed eater line and fed it into the sunroof
 
 Then, I took the wife's watering can and carefully poured water down the sunroof's forward DS drain.  I didn't measure how much went in, but I did grab this video of how it came out underneath the truck.
 
+INSERT VIDEO
+
+THis surprised me.  I had expected the water to drain from one of those plug holes we see under the rig.  I crawled under the rig to look at the plugs.  They appear to be inserted from above, but I was able to punch one out (carefully) and feel around inside with a finger.  It was damp, and there was nothing above but space.  Nothing was blocking water flow, anyway.
+
+I ran some more water down the DS sunroof drain and it leaked out in the same fashion.  I can only conclude that the water is not getting in because of forward DS or PS the subroof drains.
+
+So I returned to that gasket on the DS lower corner of the windshield.  My fingers were almost too big, but I tried to work that gasket further back into place manually, sometimes with the help of a stiff, flat paint scraper.  After a few minutes of massaging the gasket in this way, it looked a lot better.   Now I can either wait for the next rain, or I can test it by putting a sprinkler on the hood and letting it run for a while.  What should I do?

@@ -12,7 +12,7 @@ A recent thread in a 100-series FB forum made me rethink this practice.  It poin
 
 Here's a pic of the sticker on the DS door frame.  Notice two things.  First, the OEM tire was a P275/60R18.  Second, those front and rear tires have different target psi targets.
 
-![My LC's VIN sticker with tire pressure levels](/assets/images/sticker-blur-thumbnail.jpg)](/assets/images/sticker-blur.jpg)
+[![My LC's VIN sticker with tire pressure levels](/assets/images/sticker-blur-thumbnail.jpg)](/assets/images/sticker-blur.jpg)
 
 What should my target psi be for my new tires?  One commenter pointed to [this document](https://www.toyotires.com/media/3729/application_of_load_inflation_tables_20200723.pdf?fbclid=IwAR2IHnQ3Z5lmBjgRHnxRn6CorOtO4aWghlk5o2mrBhXwQGdT3QqjxQgiak8) from Toyo Tires to help explain how to calculate the pressure a set of tires needs.  After finding the document hard to read (I could figure out how to calculate the pressure for my new tires), I Googled and found this [Replacement Tire Pressure Calculator](https://tirepressure.com/replacement-tire-pressure-calculator) tool.
 
