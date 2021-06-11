@@ -18,7 +18,9 @@ First, I grabbed a length of plastic weed eater line and fed it into the sunroof
 
 Then, I took the wife's watering can and carefully poured water down the sunroof's forward DS drain.  I didn't measure how much went in, but I did grab this video of how it came out underneath the truck.
 
-INSERT VIDEO
+<video width="480" height="320" controls="controls">
+  <source src="/assets/media/draining-subroof-water-720p.mov" type="video/mov">
+</video>
 
 THis surprised me.  I had expected the water to drain from one of those plug holes we see under the rig.  I crawled under the rig to look at the plugs.  They appear to be inserted from above, but I was able to punch one out (carefully) and feel around inside with a finger.  It was damp, and there was nothing above but space.  Nothing was blocking water flow, anyway.
 
