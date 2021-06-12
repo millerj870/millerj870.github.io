@@ -8,7 +8,7 @@ tags: jack
 
 On Friday, Jack and Naomi had a Zoom call with a Mayo Clinic thoracic surgeon, Dr. Stephen Cassivi.  Jason and Tim joined the call.  The doctor introduced himself, reviewed what he knew about Jack's case, and described how the surgery would happen.  Jack wrote this about the visit:
 
->  After meeting this afternoon with the thoravic s  urgeon from Mayo via Zoom our family decided to go ahead with an expedited surgical schedule. If we waited for a more convenient time the mass would get larger and possibly involve the organs around it.  It is considered cancerous so time is important.
+>  After meeting this afternoon with the thoracic surgeon from Mayo via Zoom our family decided to go ahead with an expedited surgical schedule. If we waited for a more convenient time the mass would get larger and possibly involve the organs around it.  It is considered cancerous so time is important.
 >
 >  Initially we thought we could avoid surgery, but after extensive testing (which continues) we have no other option. The surgery is July 7th with a recovery will be 6 to 8 weeks at home.  The prognosis is very good so we are confident that everything will return to normal - as long as the republicans don’t gain control!
 
