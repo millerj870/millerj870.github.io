@@ -1,5 +1,5 @@
 ---
-title: Replacing the speaker grill fabric
+title: State of the LC, 17 June 2021 -- Replacing the speaker grill fabric
 author: Jason
 layout: post
 date: 2021-06-17
@@ -28,9 +28,9 @@ Here's how the speaker grills would end up looking later in the process.
 
 To get them there, I did the following:
 
-1. roughly cut the speaker coverign fabic from so that it would fit over the grill and need to be trimmed back,
-2. applied adhesive[^2] to the edges of the grill (both sides) and spread the adhesive out with a small brush,
-3. gently and slightly stretched the fabric over the grill, folding it over the edges of the grill and holding it there with small binder clips.
+1. roughly cut the speaker fabic so that it would fit over the grill but need to be trimmed back,
+2. applied adhesive[^2] to the edges of the grill (both sides) and evened the adhesive out with a small brush,
+3. gently and slightly stretching the fabric over the grill, folding it over the edges of the grill and holding it there with small binder clips.
 
 Here is a picture of the last step.
 
