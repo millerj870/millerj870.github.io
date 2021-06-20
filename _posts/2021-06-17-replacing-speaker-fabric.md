@@ -38,7 +38,7 @@ Here is a picture of the last step.
 
 This all seemed to work well.[^1]  There may be a time where I want speaker sloth that's a better match to my LC's interior.  That's OK.  For now, my speakers look better, and I know how to change the clother covering.
 
-[^1]:  If I did this again, I'd use something to minimize the indent that the binder clips would make in th e outward-facing side of the speaker grill.  Maybe I'd use a slice of parchment paper layered with a slice of cardboard.
+[^1]:  If I did this again, I'd use something to minimize the indent that the binder clips would make in the outward-facing side of the speaker grill.  Maybe I'd use a slice of parchment paper layered with a slice of cardboard.  Maybe I'd do it like [this guy did it](https://forum.ih8mud.com/threads/durable-solution-for-torn-speaker-covers.842031/page-3#post-1295230).
 
 [^2]:  A quick search of the internet suggested that Loctite and E6000 had fabric-to-plastic adhesives that would work well for this project.  I got a quantity of each from the local Michaels shoppe.
 
