@@ -35,7 +35,7 @@ Then I asked him if they sold any speakers that could replace these old JBLs.
 
 Right there, he sold me on reforming and not replacing.  He told me to use the model number on the speaker to search for the refoaming kit, and I was off to the races.
 
-I ordered a kit through eBay from [Midwest Speaker Repair](www.midwestspeaker.com)[^1].  It arrived right away, and the instructions were pretty clear.  Before I got to work, I looked for a video on refoaming and I found this one from NAME.  It helped me understand that
+I ordered a kit through eBay from [Midwest Speaker Repair](www.midwestspeaker.com)[^1].  It arrived right away, and the instructions were pretty clear.  Before I got to work, I looked for a video on refoaming and I found this one from [KRTLYFE](https://www.youtube.com/watch?v=vXfUaI-I8EU).  It helped me understand that
 
 * the orange foams sits atop a plastic gasket that's adhered to the outer edge of the foam, and it needs to be pulled off before teh refoaming can begin,
 * the materials from the old foam ring can be removed from the paper cone with a fingernail, and
