@@ -1,28 +1,12 @@
 ---
 author: jason
-date: 2020-12-30
+date: 2021-06-20
 layout: post
-title: State of the LC, 30 December 2020 - Misc. Updates
+title: State of the LC, 20 June 2021 - Updating the TODO list
 tags: land-cruiser
 ---
 
-It's been a long time since I updated these running lists of work on the rig, so I'm going to split short descriptions of work from this thread and link laterally.
-
-
-Here are short write-ups on:
-
-* [getting larger tires](/2020/12/30/lc-snowchains) and making sure they didn't outgrow my snow chains,
-* using [hot glue](/2020/12/30/hot-glue) to repair a piece of plastic I broke while working on the DS door panel, and using it to fix the seat-back mesh on the DS seat [**note**: the hot glue didn't hold up to the summer heat], and 
-* working on an [electrical problem](/2020/12/28/state-of-the-LC-201228) that comes with the winter rains and that I should have fixed last spring.
-
-A couple other projects that I've been working on:
-* replacing the DS bumper reflector that had been cracket at Yosemite last Thanksgiving (COMPLETE),
-* investigating why the PS front window won't roll down, and
-* figuring out what I want to do about the worn out speakers in the rig.  (Answer:  get refoam kits to repair them.)
-
-* * *
-
-Heading back to this list to remind me what needs to get done and what I've done on the rig.
+I've been keeping a running list of things that I'd like to do to the rig, and things I've done to the rig.    
 
 The tasks on my list (not in any particular order):
 
@@ -31,9 +15,7 @@ The tasks on my list (not in any particular order):
   3. adding a simple aux battery to the rig; running some outlets for USB chargers
   5. mount mobile 2m/70cm radio in dash or up front; large antenna mounted on rear bumper (?)
   6. add bolts to engine cover (two are missing, two are present) - requires a bracket that’s missing
-  7. single sleeping platform in rear
   8. plasti-dip grill to black  
-  9. repair broken speakers - need to identify those that don’t work, order replacements (mud threads; infinity)
   10. roof rack ([Bowfin Cruisers](https://www.bowfincruisers.com/products/100-series-roof-rack)?)
   11. awning  
   12. armor up:
@@ -42,6 +24,7 @@ The tasks on my list (not in any particular order):
     3. third, front bumper (Dissent Off-Road, too?  Addicted Off-Road?)
   13. [portable compressor](https://www.amazon.com/Viair-00088-88P-Portable-Compressor/dp/B005ASY23I/ref=sr_1_fkmr0_1?ie=UTF8&qid=1534568292&sr=8-1-fkmr0&keywords=VAIAR+88P+compressor) for airing up, or CO<sub>2</sub> system for airing up.
   14. The torsion bars probably need a crank.  My mechanic, Shady, said I could give the rig to him and he'd bring it to his alignment place.  ``If you adjust the torsion, you need to be careful with alignment,'' he said.  I don't know if I believe him.  Fact check: [sound advice here](https://forum.ih8mud.com/threads/torsion-bar-alignment-risk.1218093/post-13219602), and video instructions [shared here](https://forum.ih8mud.com/threads/torsion-bar-alignment-risk.1218093/post-13225529) and linked [here](https://www.google.com/search?q=100+series+torsion+bar+adjustment&oq=100+series+torsion+bar+adjustment&aqs=chrome..69i57j0l2.5719j1j7&sourceid=chrome&ie=UTF-8#kpvalbx=_hmUPX9nXJLqIytMP1YmxoAQ30).
+  15. See if swapping the O2 sensors (updtream) change the error codes from `PO430` (bank 2, passenger side) to `PO420` (bank 1, driver side)
 
 COMPLETED
 
@@ -55,7 +38,7 @@ COMPLETED
   8. post-purchase shop maintenance: replaced the timing belt and transfer case looked at (someday, have from at [RPM Garage][8] in Monrovia take a look at the rig)
   9. replace shocks (current shocks look original to truck) - Kyb EXCEED-D recommended by S&M Auto
   10. obtained small fire extinguisher(s) for rig; one of the 'cans' that sits in my tool box in the back
-  11. customize wiring to the homelink system in the top console so it only activiates as an accessory as opposed to being ‘always on’
+  11. customize wiring to the homelink system in the top console so it only activiates as an accessory as opposed to being ‘always on’ [this has since BROKEN]
   12. NOT BROKEN, just anemic: fix antenna mast, perhaps replacing it with a manual mast (?)
   13. added a goose-neck stand that bolts to passenger-side front seat rails and holds my cell phone or my Ham radio; have a mag-mount antenna for the ham radio that I put out when using
   14. removed air deflector and put screws into exposed holes.  NOTE:  screws quickly started to rust; need to find stainless
@@ -63,4 +46,10 @@ COMPLETED
   16. repaired water leak that drips onto the feet of the LC passenger (first row) when A/C is running; used 3M strip caulk (need to check the name) to replace the gasket that was failing.  Noted a bunch of gunk in the air filter space, but could only get some out.  Wife was impressed that I did this myself.
   17. Upgraded to Michelen Defender LTX M/S 275/65R18 (32 inch) tires.  The rig looks good!
   18. Built a sleeping platform for the back that comes apart, allowing a table to be present in the third-row area at all times; an extension lays down over the folded down back seats.  I'm sure I'll want to fiddle with this design some.
-  19. Started [fixing the saggy mesh nets](/2020/12/30/hot-glue) on the back of the front seats.
+  19. Started [fixing the saggy mesh nets](/2020/12/30/hot-glue.html) on the back of the front seats. [Still need to do the PS]
+  20. investigated [the water leak](/2021/06/08/LC-working-on-the-leak.html) into the DS footwell when it rains; will need to wait for the next rain (or manufacture one with a sprinkler) to see if it worked
+  21. [rolled the dice](/2021/06/07/catalytic-coverter-notes.html) on a `PO430` error code to get the rig resmogged
+  20. refoamed the front speakers and the subwoofer
+  21. replaced the cloth on all speaker grills; may redo in the future with a darker shade of grey
+  22. added missing body clips to the sides of the DS front door
+  23. replaced the screws that hold down the transitional tray for the tailgate; the originals were corroded and gross

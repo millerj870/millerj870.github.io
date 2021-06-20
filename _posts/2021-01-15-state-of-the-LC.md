@@ -1,5 +1,5 @@
 ---
-title: State of the LC - 15 January 2021
+title: State of the LC, 15 January 2021 - trip beyond the Los Padres
 author: jason
 layout: post
 date: 2021-01-15
