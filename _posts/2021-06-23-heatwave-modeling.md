@@ -3,7 +3,7 @@ title: From the Adjusting Our Expectations Department: A Weather Model Incident
 author: Jason
 layout: post
 date: 2021-06-23
-tags: climate-change,mathematics, modeling
+tags: climate-change, mathematics, modeling
 ---
 
 Climate change is making weather prediction a bit more complicated these days, and climate scientists are having a hard time keeping up.  Last week, a climate scientist reported that an important weather prediction model was giving absurd results for West Coast weather that was ten days away.
