@@ -14,7 +14,7 @@ Climate change is making weather prediction a bit more complicated these days.  
 
 Notable here is a modeling professional describing model output as "not realistic" and "completely absurd".  This means that model was doing something unexpected and that its output was unbelievable.
 
-Granted, a 10-day forecast is less reliable than a 10-hour forecast.  Mathematical models are better at predicting events in the near future relative to far-future events.  This is to be expected.  And certainly the modeler here knows that.  And yet he describes the model output as "completely absurd" and puts out a call for help in his efforts to identify the source of the problem.
+Granted, a 10-day forecast is less reliable than a 10-hour forecast.  Mathematical models are better at accurately predicting events that are near their input data.  In the case of temporal weather forecasts, this means the near-future predications are more accurate than far-future predictions.  And certainly the modeler here knows that.  And yet he describes the model output as "completely absurd" and puts out a call for help in his efforts to identify the source of the problem.
 
 Three days later, he's made little progress to his goal of finding a problem.
 
