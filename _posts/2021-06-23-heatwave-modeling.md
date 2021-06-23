@@ -1,5 +1,5 @@
 ---
-title: From the Adjusting Our Expectations Department: A Weather Model Incident
+title: From the Adjusting Our Expectations Department -- A Weather Model Incident
 author: Jason
 layout: post
 date: 2021-06-23
