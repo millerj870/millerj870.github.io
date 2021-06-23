@@ -30,7 +30,7 @@ Two days later, the professional are shrugging their shoulders and trusting the 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">A historical heat wave is coming for the Pacific Northwestern states next week. High temperatures to soar well into the 100Fs... <a href="https://t.co/RzasEt7JVp">pic.twitter.com/RzasEt7JVp</a></p>&mdash; Doc V (@MJVentrice) <a href="https://twitter.com/MJVentrice/status/1407732548847996929?ref_src=twsrc%5Etfw">June 23, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Aven the National Weather Service is rolling with it, now.
+Even the National Weather Service is rolling with it, now.
 
 <!-- national weather service -->
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Extreme heat wave expected this weekend, likely breaking several records. Make sure you&#39;re prepared for the heat!<br>Stay hydrated<br>Complete outdoor activities in the morning, or wait until the evening<br>Do NOT leave kids or pets in a parked car<a href="https://twitter.com/hashtag/orwx?src=hash&amp;ref_src=twsrc%5Etfw">#orwx</a> <a href="https://twitter.com/hashtag/wawx?src=hash&amp;ref_src=twsrc%5Etfw">#wawx</a> <a href="https://twitter.com/hashtag/pdxtst?src=hash&amp;ref_src=twsrc%5Etfw">#pdxtst</a> <a href="https://twitter.com/hashtag/heatwave?src=hash&amp;ref_src=twsrc%5Etfw">#heatwave</a> <a href="https://t.co/rZ0FJgK3aF">pic.twitter.com/rZ0FJgK3aF</a></p>&mdash; NWS Portland (@NWSPortland) <a href="https://twitter.com/NWSPortland/status/1407741475220201472?ref_src=twsrc%5Etfw">June 23, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
