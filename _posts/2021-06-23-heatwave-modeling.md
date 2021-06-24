@@ -24,6 +24,8 @@ Three days later, he's made little progress to his goal of finding a problem.
 
 This tweet is a bit hard to parse.  My takeaway is this:  two different models are giving the same prediction (now a seven-day farecast).  If these two models are built differently, then this decreases the likelihood that the model output is the result of some "error" or "mistake".  It is evidence supporting the idea the original forecast was not a mistake.
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Paging anyone in numerical weather modeling world who has insights, esp. folks at <a href="https://twitter.com/NOAAResearch?ref_src=twsrc%5Etfw">@NOAAResearch</a>, <a href="https://twitter.com/NWSWPC?ref_src=twsrc%5Etfw">@NWSWPC</a>, <a href="https://twitter.com/NWSEMC?ref_src=twsrc%5Etfw">@NWSEMC</a>, etc. This is turning into a potential public communications problem, especially because there could actually be very high-impact heat event buried in these errors.</p>&mdash; Daniel Swain (@Weather_West) <a href="https://twitter.com/Weather_West/status/1407036224980852739?ref_src=twsrc%5Etfw">June 21, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <!-- on 22 June -->
 
 Soon, the modelers are shrugging about the stubbornly consistent model output.
