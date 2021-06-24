@@ -24,7 +24,14 @@ Three days later, he's made little progress to his goal of finding a problem.
 
 This tweet is a bit hard to parse.  My takeaway is this:  two different models are giving the same prediction (now a seven-day farecast).  If these two models are built differently, then this decreases the likelihood that the model output is the result of some "error" or "mistake".  It is evidence supporting the idea the original forecast was not a mistake.
 
-Two days later, the professional are shrugging their shoulders and trusting the model, whose predictions are record breaking but not quite as extreme.
+<!-- on 22 June -->
+
+Soon, the modelers are shrugging about the stubbornly consistent model output.
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Update: models not really backing off on this one. Highest confidence in extreme and possibly historically hot temps this weekend/next week is across Oregon, but could also extend across Washington and northern CA depending on how things evolve. <a href="https://twitter.com/hashtag/CAwx?src=hash&amp;ref_src=twsrc%5Etfw">#CAwx</a> <a href="https://twitter.com/hashtag/ORwx?src=hash&amp;ref_src=twsrc%5Etfw">#ORwx</a> <a href="https://twitter.com/hashtag/WAwx?src=hash&amp;ref_src=twsrc%5Etfw">#WAwx</a> <a href="https://t.co/kMLQKhkVQ1">https://t.co/kMLQKhkVQ1</a></p>&mdash; Daniel Swain (@Weather_West) <a href="https://twitter.com/Weather_West/status/1407363905257496579?ref_src=twsrc%5Etfw">June 22, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+A day later, the weather forecaster are going with the flow.
 
 <!-- post on 6/23 treating model predictions and legit -->
 
