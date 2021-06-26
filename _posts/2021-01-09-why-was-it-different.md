@@ -2,7 +2,7 @@
 title: Why Was the Stop-the-Steal Rally Different?
 author: jason
 layout: post
-tags: politics, society, coup
+tags: politics society coup
 date: 2021-01-09
 ---
 

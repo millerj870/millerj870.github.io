@@ -2,7 +2,7 @@
 title: Companies Supporting the Rule of Law
 author: Jason
 date: 2021-01-10
-tags: politics, coup
+tags: politics coup
 layout: post
 ---
 

@@ -3,7 +3,7 @@ title: Private Citizen Seditionists
 author: Jason
 layout: post
 date: 2021-01-10
-tags: politics, coup
+tags: politics coup
 ---
 
 There was an unsuccessful coup the other day.  We can't be smug about its failure.  Scholars say successful coups are almost always preceded by an unsuccessful coup or two.  So we need to be vigilant.  We need to root out the bad actors and use our judicial system to hold them accountable.

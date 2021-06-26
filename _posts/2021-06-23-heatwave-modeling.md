@@ -3,7 +3,7 @@ title: From the Adjusting Our Expectations Department -- A Weather Model Inciden
 author: Jason
 layout: post
 date: 2021-06-23
-tags: climate-change, mathematics, modeling
+tags: climate-change mathematics modeling
 ---
 
 Climate change is making weather prediction a bit more complicated these days, and climate scientists are having a hard time keeping up.  Last week, a climate scientist reported that an important weather prediction model was giving absurd results for West Coast weather that was ten days away.
@@ -51,6 +51,16 @@ And online news services are writing about the extremem predictions.
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">A &quot;historic&quot; and potentially deadly heat wave is on tap for the Pacific Northwest this weekend with never-before-seen temperatures possible in cities like Portland and Spokane. <a href="https://t.co/5BXuIMsKlH">https://t.co/5BXuIMsKlH</a></p>&mdash; Axios (@axios) <a href="https://twitter.com/axios/status/1407733787748974592?ref_src=twsrc%5Etfw">June 23, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Looks like we're in for a hot one!
+
+## Update:  NOAA, too (24 June) ##
+
+This modeling "issue" has even made it into a [NOAA "Area Forecast Discussion"](https://forecast.weather.gov/product.php?site=PQR&issuedby=PQR&product=AFD&format=CI&version=1&glossary=1) for the Portland, OR, area.  They refer to it as "hype".
+
+     There has been a lot of (well-justified) hype lately regarding the
+     high temperatures shown by many models (and the National Blend of Models) Sunday and Monday, with some showing all-time high temperature records being obliterated by 5 to 10 degrees. While models seem to be well in agreement of +28 deg C to +31 deg C for 850 mb temps during that period. The all-time record for 850 mb temperatures at KSLE per SPC sounding climatology is +28.3 deg C. So, just considering 850 mb temps, we would be in the ballpark of all-time record highs. But there are additional considerations... 
+
+So remarkable.
+
 
 <!--
 SYNTAX FOR IMAGES
