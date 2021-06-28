@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: society,"
-tag: society,
+title: "Tag: modeling"
+tag: modeling
 robots: noindex
 ---

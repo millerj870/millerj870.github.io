@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: politics,"
-tag: politics,
+title: "Tag: society"
+tag: society
 robots: noindex
 ---
