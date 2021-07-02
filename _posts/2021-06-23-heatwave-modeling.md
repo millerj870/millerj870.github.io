@@ -61,6 +61,14 @@ This modeling "issue" has even made it into a [NOAA "Area Forecast Discussion"](
 
 So remarkable.
 
+## Update:  Climate.gov, writes (2 July)
+
+As we move past this remarkable climate event, people are writing about it.  Here's what Tom Di Liberto writes for Climate.gove:  ["Astounding heat obliterates all-time records across the Pacific Northwest and Western Canada in June 2021"](https://climate.gov/news-features/event-tracker/astounding-heat-obliterates-all-time-records-across-pacific-northwest).
+
+It's a good write up, and it comes close to mentioning the disproportionate impact heat waves have on our neighbors who have been marginalized through policies like redlining and the like.  This is an issue we need to be thinking about and making policy that damps the negative impact of climate change on those neighbors.
+
+Di Liberto's article does link to an article on work being done by NOAA to understand climate impact on these populations.  The article ["NOAA and communities to map heat inequalities in 11 states"](https://www.noaa.gov/media-release/noaa-and-communities-to-map-heat-inequities-in-11-states) is worth a read.
+
 
 <!--
 SYNTAX FOR IMAGES
