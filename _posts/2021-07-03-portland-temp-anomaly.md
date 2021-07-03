@@ -64,9 +64,9 @@ The fact that a high temperature of 115&deg;F had *never* occurred in Portland, 
 
 If we assume that the daily high temperatures follow a probability distribution, we can use that distribution to estimate how unlikely a temp of 115&deg;F would be.  If the high temperatures were [distributed normally](https://en.wikipedia.org/wiki/Normal_distribution), we could compute the likelihood of a temperature 115&deg;F or higher using Z-scores, a standard technique in Stats 101.  Plotting histograms for each of these datasets shows the distributions aren't normal.
 
-[![ALT-TEXT](/assets/images/Rplot-hist628station1-thumbnail.jpg)](/assets/images/Rplot-hist628station1.png)
+[![ALT-TEXT](/assets/images/Rplot-hist628station1-thumbnail.png)](/assets/images/Rplot-hist628station1.png)
 
-[![ALT-TEXT](/assets/images/Rplot-hist628station2-thumbnail.jpg)](/assets/images/Rplot-hist628station2.png)
+[![ALT-TEXT](/assets/images/Rplot-hist628station2-thumbnail.png)](/assets/images/Rplot-hist628station2.png)
 
 A normal distribution is symmetry about its 'center', or highest point.  These are skewed right, having more mass above their 'center' and having a tail that extends farther to the right than to the left.  This means that we can't really use the normal distribution to get an accurate measure of the chances a high temp of 115&deg;F would occur.
 
@@ -121,9 +121,9 @@ df6<-selectByDate(
 
 we see the high temperature in June was 102&deg;F on June 30, 1942.  The temperature distributions look like
 
-[![ALT-TEXT](/assets/images/Rplot-hist6station1-thumbnail.jpg)](/assets/images/Rplot-hist6station1.png)
+[![ALT-TEXT](/assets/images/Rplot-hist6station1-thumbnail.png)](/assets/images/Rplot-hist6station1.png)
 
-[![ALT-TEXT](/assets/images/Rplot-hist6station2-thumbnail.jpg)](/assets/images/Rplot-hist6station2.png)
+[![ALT-TEXT](/assets/images/Rplot-hist6station2-thumbnail.png)](/assets/images/Rplot-hist6station2.png)
 
 R makes it easy to calculate that 115&deg;F is 4.92 and 4.94 standard deviations above the expected high temperature for a June day in Portland, so a day that is that hot or hotter has about a 0.0000022 chance of happening in June.  That's about once every 50000 Junes, or once every 4100 years.
 
@@ -140,9 +140,9 @@ dfsummer<-selectByDate(
 
 we see the high temperature during these months was 107&deg;F on July 2, 1942, July 30, 1965, and August 8 and 10, 1981.  The temperature distributions look like
 
-[![ALT-TEXT](/assets/images/Rplot-histsumstation1-thumbnail.jpg)](/assets/images/Rplot-histsumstation1.png)
+[![ALT-TEXT](/assets/images/Rplot-histsumstation1-thumbnail.png)](/assets/images/Rplot-histsumstation1.png)
 
-[![ALT-TEXT](/assets/images/Rplot-histsumstation2-thumbnail.jpg)](/assets/images/Rplot-histsumstation2.png)
+[![ALT-TEXT](/assets/images/Rplot-histsumstation2-thumbnail.png)](/assets/images/Rplot-histsumstation2.png)
 
 Even with a higher high temperature, we see that 115&deg;F is 4.48 and 4.29 standard deviations above the expected temperature during this period.  So the probability that a day in June, July, August of September has a high of 115;deg;F or higher is 0.00004.  That means that we expect a day to have this temperature once every 833 years.
 
