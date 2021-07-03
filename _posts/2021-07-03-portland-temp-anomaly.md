@@ -79,7 +79,7 @@ temp_ave1<-mean(df1$tmax)
 temp_ave2<-mean(df2$tmax)
 ```
 
-the values of which are 73.7&deg;F and 74.8&def;F, respectively.  The 2021 high exceeds both by over 40&def;F!
+the values of which are 73.7&deg;F and 74.8&deg;F, respectively.  The 2021 high exceeds both by over 40&deg;F!
 
 Second, we'll express the record high in terms of the way our data is spread out, or its standard deviation.  The standard deviation for each data set is
 
@@ -97,14 +97,14 @@ df2n<-(df2$tmax-temp_ave2)/temp_sd2
 
 or 4.57 and 4.48 standard deviations from the expected daily high temperature.  This is huge!
 
-The daily high temperatures are not distributed normally, but their distribution could be (very roughly) approximated by the upper half of a normal distribution.  With this assumption, we can calculate the probability that June 28th in Portland, OR, should have a high of 115&def;F or higher.  In R, we can calculate those probabilities with the `dnorm` function:
+The daily high temperatures are not distributed normally, but their distribution could be (very roughly) approximated by the upper half of a normal distribution.  With this assumption, we can calculate the probability that June 28th in Portland, OR, should have a high of 115&deg;F or higher.  In R, we can calculate those probabilities with the `dnorm` function:
 
 ```
 dnorm(4.57)
 dnorm(4.48)
 ```
 
-returns 0.0000114 and 0.0000171, respectively.  This means we'd expect a high temp of 115&def;F on 28 June about once every 10000 years.[^1]
+returns 0.0000114 and 0.0000171, respectively.  This means we'd expect a high temp of 115&deg;F on 28 June about once every 10000 years.[^1]
 
 ## How Unusual is 115&deg;F in June?
 
