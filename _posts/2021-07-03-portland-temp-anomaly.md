@@ -1,9 +1,9 @@
 ---
-title: TITLE
+title: How Unusual Was Portland's High Temp on June 28th?
 author: Jason
 layout: post
-date: 2021-MM-DD
-tags: tag
+date: 2021-07-03
+tags: mathematics statistics climate-change R
 ---
 
 In late June, I wrote a short post to capture the feeling of meteorologists' disbelief at the temperature forecasts for the Pacific Northwest (PNW) for late June 2021.  Their reactions to the forecasts shows the clash between our weather expectations from experience and the new reality of global climate change.  In this post, I look at the temps on June 26, 27, and 28 and put them into a historical context using some statistics (and R).
