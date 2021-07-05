@@ -30,7 +30,7 @@ If all goes well, Naomi will drive Jack back home on Friday where he will contin
 
 The only thing we know for sure is that Dr. Cassivi will send Jack home with a lung pillow that looks like this.
 
-[![ALT-TEXT](/assets/images/jack-lungpillow-thumbnail.jpg)](/assets/images/jack-lungpillow.jpg)
+[The `lung pillow` Dr. Cassivi will send hom with Jack.](/assets/images/jack-lungpillow.jpg)
 
 Dr. Cassivi says the will pillow allow Jack wrap his arms around it to take pressure of his incisions.  That makes us think that pain management will be important during the first few days, at least.
 
