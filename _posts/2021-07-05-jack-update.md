@@ -1,9 +1,9 @@
 ---
-title: TITLE
+title: Jack update - This is the week!
 author: Jason
 layout: post
-date: 2021-MM-DD
-tags: tag
+date: 2021-07-05
+tags: jack
 ---
 
 For those of you who are still keeping score at home, this is the week that Jack will have his thymoma removed at the Mayo Clinic.  His procedure is scheduled for Wednesday, July 7th.  This post is a brief description of how we think this week will go.
