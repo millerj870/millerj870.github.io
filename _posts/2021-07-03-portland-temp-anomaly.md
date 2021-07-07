@@ -150,7 +150,7 @@ Even with a higher high temperature, we see that 115&deg;F is 4.48 and 4.29 stan
 
 Even though these methods used a very sketchy normality assumption, the investigation shows that Portland, OR, having a high of 115&deg;F is historically very unlikely to happen.  Even climate change skeptics should look at this as undeniable evidence that something is changing in the world around us to make events like this happen more often than this historical record says they should be happening.
 
-[^1]:  Remember that 28 June occurs once a year.  That's why this analysis makes the even seem so rare.
+[^1]:  Remember that 28 June occurs once a year.  That's why this analysis makes the even seem so rare. 
 
 <!--
 SYNTAX FOR IMAGES
