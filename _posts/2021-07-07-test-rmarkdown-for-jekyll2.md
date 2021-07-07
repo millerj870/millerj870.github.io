@@ -58,6 +58,20 @@ rows that had an ‘NA’ instead of a temp value.
 
 ``` r
 library(dplyr)
+```
+
+    ## 
+    ## Attaching package: 'dplyr'
+
+    ## The following objects are masked from 'package:stats':
+    ## 
+    ##     filter, lag
+
+    ## The following objects are masked from 'package:base':
+    ## 
+    ##     intersect, setdiff, setequal, union
+
+``` r
 df<-rename_with(df,tolower)
 # drop irrelevant columns
 df<-df[-c(5,7,8,10,12:14)]
@@ -143,12 +157,34 @@ or about 9.0343456°F and 8.9622866°F, respectively. This means our
 record high temperature is
 
 ``` r
-df1n<-(115-temp_ave1)/temp_sd1
-df2n<-(115-temp_ave2)/temp_sd2
+df1n<-(df1$tmax-temp_ave1)/temp_sd1
+df2n<-(df2$tmax-temp_ave2)/temp_sd2
 ```
 
-or 4.5741359 and 4.4847426 standard deviations from the expected daily
-high temperature, respectively. This is huge!
+or -0.4068558, -1.070988, -0.4068558, -0.4068558, 1.4748522, 0.035899,
+-1.2923654, -1.070988, 0.2572764, -0.4068558, -0.8496106, -1.2923654,
+-0.6282332, -0.7389219, 0.9214087, 0.9214087, -1.070988, -0.6282332,
+-0.1854784, -1.070988, 0.5893426, 0.4786539, 0.5893426, 2.2496731,
+1.2534748, -0.2961671, 0.9214087, -0.9602993, -0.4068558, 0.035899,
+-0.5175445, -0.5175445, 1.3641635, -0.6282332, -0.0747897, -0.8496106,
+-0.1854784, 2.0282957, 1.1427861, 1.3641635, 1.3641635, -0.6282332,
+0.7000313, 1.1427861, 1.6962296, -0.2961671, -0.5175445, -0.7389219,
+1.8069183, -0.9602993, 1.8069183, 2.3603618, -0.2961671, -0.9602993,
+-0.4068558, -0.9602993, -0.4068558, -0.5175445, -0.5175445, -0.8496106,
+1.0320974, -0.5175445, 0.81072, -0.9602993, -0.2961671, 0.4786539,
+0.035899, 1.1427861, -1.5137428, -1.4030541, -0.9602993, -1.5137428,
+1.2534748, -0.0747897 and 1.0258039, 1.2489612, 1.2489612, -0.5362975,
+0.4679105, 1.0258039, 1.6952759, -0.5362975, -0.5362975, -0.7594548,
+1.6952759, -1.3173481, 1.1373826, 2.2531692, -0.3131401, -0.7594548,
+-0.5362975, -1.2057695, -0.6478761, -0.4247188, -0.8710335, -0.9826121,
+0.8026465, -0.7594548, 0.6910679, -1.6520842, -0.5362975, 0.4679105,
+-0.2015615, 1.0258039, -1.5405055, -1.5405055, -0.7594548, -1.6520842,
+1.4721186, 0.0215959, 0.3563319, -0.9826121, 1.4721186, 0.8026465,
+1.3605399, 0.5794892, -0.0899828, 0.4679105, 0.0215959, -0.3131401,
+0.1331745, 0.2447532, -1.3173481, 1.3605399, -1.3173481, -0.7594548,
+0.2447532, -0.5362975, -0.3131401, -0.8710335, 1.0258039, 1.3605399,
+-0.7594548, -0.4247188, 1.0258039, -0.9826121 standard deviations from
+the expected daily high temperature. This is huge!
 
 Were the daily high temperatures distributed normally, we could use some
 basic statistics to calculate the probability that June 28th in
@@ -157,11 +193,62 @@ we can calculate those probabilities with the `dnorm` function:
 
 ``` r
 dnorm(df1n)
+```
+
+    ##  [1] 0.36725298 0.22482203 0.36725298 0.36725298 0.13445402 0.39868530
+    ##  [7] 0.17307285 0.22482203 0.38595515 0.36725298 0.27807689 0.17307285
+    ## [13] 0.32749680 0.30363125 0.26094764 0.26094764 0.22482203 0.32749680
+    ## [19] 0.39213871 0.22482203 0.33534318 0.35576201 0.33534318 0.03176300
+    ## [25] 0.18185638 0.38182381 0.26094764 0.25157204 0.36725298 0.39868530
+    ## [31] 0.34893673 0.34893673 0.15733004 0.32749680 0.39782810 0.27807689
+    ## [37] 0.39213871 0.05099997 0.20764642 0.15733004 0.15733004 0.32749680
+    ## [43] 0.31224710 0.20764642 0.09465317 0.38182381 0.34893673 0.30363125
+    ## [49] 0.07797123 0.25157204 0.07797123 0.02461024 0.38182381 0.25157204
+    ## [55] 0.36725298 0.25157204 0.36725298 0.34893673 0.34893673 0.27807689
+    ## [61] 0.23420675 0.34893673 0.28720129 0.25157204 0.38182381 0.35576201
+    ## [67] 0.39868530 0.20764642 0.12686304 0.14908794 0.25157204 0.12686304
+    ## [73] 0.18185638 0.39782810
+
+``` r
 dnorm(df2n)
 ```
 
-returns 1.1418245^{-5} and 1.7117716^{-5}, respectively. This means we’d
-expect a high temp of 115°F on 28 June about once every 10000 years.
+    ##  [1] 0.23572832 0.18288631 0.18288631 0.34550574 0.35757553 0.23572832
+    ##  [7] 0.09480637 0.34550574 0.34550574 0.29899622 0.09480637 0.16752183
+    ## [13] 0.20892957 0.03151397 0.37985453 0.29899622 0.34550574 0.19284307
+    ## [19] 0.32341780 0.36453542 0.27299872 0.24617765 0.28907784 0.29899622
+    ## [25] 0.31419988 0.10191363 0.34550574 0.35757553 0.39092012 0.23572832
+    ## [31] 0.12178268 0.12178268 0.29899622 0.10191363 0.13499668 0.39884926
+    ## [37] 0.37440217 0.24617765 0.13499668 0.28907784 0.15810863 0.33727981
+    ## [43] 0.39733045 0.35757553 0.39884926 0.37985453 0.39542021 0.38717031
+    ## [49] 0.16752183 0.15810863 0.16752183 0.29899622 0.38717031 0.34550574
+    ## [55] 0.37985453 0.27299872 0.23572832 0.15810863 0.29899622 0.36453542
+    ## [61] 0.23572832 0.24617765
+
+returns 0.367253, 0.224822, 0.367253, 0.367253, 0.134454, 0.3986853,
+0.1730728, 0.224822, 0.3859551, 0.367253, 0.2780769, 0.1730728,
+0.3274968, 0.3036312, 0.2609476, 0.2609476, 0.224822, 0.3274968,
+0.3921387, 0.224822, 0.3353432, 0.355762, 0.3353432, 0.031763,
+0.1818564, 0.3818238, 0.2609476, 0.251572, 0.367253, 0.3986853,
+0.3489367, 0.3489367, 0.15733, 0.3274968, 0.3978281, 0.2780769,
+0.3921387, 0.051, 0.2076464, 0.15733, 0.15733, 0.3274968, 0.3122471,
+0.2076464, 0.0946532, 0.3818238, 0.3489367, 0.3036312, 0.0779712,
+0.251572, 0.0779712, 0.0246102, 0.3818238, 0.251572, 0.367253, 0.251572,
+0.367253, 0.3489367, 0.3489367, 0.2780769, 0.2342067, 0.3489367,
+0.2872013, 0.251572, 0.3818238, 0.355762, 0.3986853, 0.2076464,
+0.126863, 0.1490879, 0.251572, 0.126863, 0.1818564, 0.3978281 and
+0.2357283, 0.1828863, 0.1828863, 0.3455057, 0.3575755, 0.2357283,
+0.0948064, 0.3455057, 0.3455057, 0.2989962, 0.0948064, 0.1675218,
+0.2089296, 0.031514, 0.3798545, 0.2989962, 0.3455057, 0.1928431,
+0.3234178, 0.3645354, 0.2729987, 0.2461777, 0.2890778, 0.2989962,
+0.3141999, 0.1019136, 0.3455057, 0.3575755, 0.3909201, 0.2357283,
+0.1217827, 0.1217827, 0.2989962, 0.1019136, 0.1349967, 0.3988493,
+0.3744022, 0.2461777, 0.1349967, 0.2890778, 0.1581086, 0.3372798,
+0.3973304, 0.3575755, 0.3988493, 0.3798545, 0.3954202, 0.3871703,
+0.1675218, 0.1581086, 0.1675218, 0.2989962, 0.3871703, 0.3455057,
+0.3798545, 0.2729987, 0.2357283, 0.1581086, 0.2989962, 0.3645354,
+0.2357283, 0.2461777, respectively. This means we’d expect a high temp
+of 115°F on 28 June about once every 10000 years.
 
 This estimate is terribly rough, and we have little reason to have faith
 in it for two reasons. First, there’s nothing special about June 28th.
@@ -177,19 +264,18 @@ of temperatures.
 hist(df1$tmax, main="High temperatures on 28 June at the Portland Regional Forecast Office")
 ```
 
-![](/assets/images/images210707/hist-stations-1.png)<!-- -->
+![](/images/hist-stations-1.png)<!-- -->
 
 ``` r
 hist(df2$tmax, main="High temperatures on 28 June at the Portland International Airport")
 ```
 
-![](/assets/images/images210707/hist-stations-2.png)<!-- -->
+![](/images/hist-stations-2.png)<!-- -->
 
 A normal distribution is symmetric about its ‘center’, or highest point.
-These distributions are not symmstric. They are both skewed right,
-having more mass above their ‘center’, and they have a tail that extends
-farther to the right than to the left. They also appear to be bi-modal,
-having two local maxima.
+These distributions are both skewed right, having more mass above their
+‘center’ and having a tail that extends farther to the right than to the
+left. They also appear to be bi-modal, having two local maxima.
 
 To see how poorly these distributions are described by a Gaussian, we
 find the Gaussian of best fir for each and plot then with the data’s
@@ -200,13 +286,23 @@ dg1<-df1$tmax
 dg2<-df2$tmax
 
 library(MASS)
+```
+
+    ## 
+    ## Attaching package: 'MASS'
+
+    ## The following object is masked from 'package:dplyr':
+    ## 
+    ##     select
+
+``` r
 pnormal1<-fitdistr(dg1,"normal")
 pnormal2<-fitdistr(dg2,"normal")
 
 h1<-hist(dg1,breaks=20);
 ```
 
-![](/assets/images/images210707/distns-1.png)<!-- -->
+![](/images/distns-1.png)<!-- -->
 
 ``` r
 xhist1<-c(min(h1$breaks),h1$breaks)
@@ -214,10 +310,11 @@ yhist1<-c(0,h1$density,0)
 xfit1<-seq(min(dg1),max(dg1),length=max(dg1)-min(dg1)+1)
 ynfit<-dnorm(xfit1,pnormal1$estimate[1],pnormal1$estimate[2])
 
+
 h2<-hist(dg2,breaks=20);
 ```
 
-![](/assets/images/images210707/distns-2.png)<!-- -->
+![](/images/distns-2.png)<!-- -->
 
 ``` r
 xhist2<-c(min(h2$breaks),h2$breaks)
@@ -231,16 +328,14 @@ ynfit<-dnorm(xfit2,pnormal2$estimate[1],pnormal2$estimate[2])
 lines(xfit1,ynfit,col="red")}
 ```
 
-![](/assets/images/images210707/bestfit-1.png)<!-- -->
+![](/images/bestfit-1.png)<!-- -->
 
 ``` r
 {plot(xhist2,yhist2,type="s",ylim=c(0,max(yhist2,ynfit)),main="Best Normal approximation to highs at the Portland International Airport")
 lines(xfit2,ynfit,col="red")}
 ```
 
-![](/assets/images/images210707/bestfit-2.png)<!-- -->
-
-Pretty terrible, right?
+![](/images/bestfit-2.png)<!-- --> Pretty terrible, right?
 
 Now let’s consider 115°F in the context of historical June temperatures,
 relaxing our fixation on the date of June 28th.
@@ -290,7 +385,7 @@ pnormal2<-fitdistr(dg2,"normal")
 h1<-hist(dg1,breaks=20);
 ```
 
-![](/assets/images/images210707/distns2-1.png)<!-- -->
+![](/images/distns2-1.png)<!-- -->
 
 ``` r
 xhist1<-c(min(h1$breaks),h1$breaks)
@@ -302,7 +397,7 @@ ynfit1<-dnorm(xfit1,pnormal1$estimate[1],pnormal1$estimate[2])
 h2<-hist(dg2,breaks=20);
 ```
 
-![](/assets/images/images210707/distns2-2.png)<!-- -->
+![](/images/distns2-2.png)<!-- -->
 
 ``` r
 xhist2<-c(min(h2$breaks),h2$breaks)
@@ -316,14 +411,14 @@ ynfit2<-dnorm(xfit2,pnormal2$estimate[1],pnormal2$estimate[2])
 lines(xfit1,ynfit1,col="red")}
 ```
 
-![](/assets/images/images210707/bestfit2-1.png)<!-- -->
+![](/images/bestfit2-1.png)<!-- -->
 
 ``` r
 {plot(xhist2,yhist2,type="s",ylim=c(0,max(yhist2,ynfit)),main="Best Normal approximation to highs at the Portland International Airport")
 lines(xfit2,ynfit2,col="red")}
 ```
 
-![](/assets/images/images210707/bestfit2-2.png)<!-- -->
+![](/images/bestfit2-2.png)<!-- -->
 
 We see that the Gaussian fits better, but it’s not perfect. The mean of
 the Gaussian is a bit above the mode of the temperature distribution,
@@ -331,7 +426,7 @@ and the right tail of the temperature distribution appears to lie above
 the right tail of the Gaussian. This suggests that our estimate of how
 unusual the high temperature is might be an underestimate.
 
-What happens if we broaden the range of dates we consider even further?
+Whgat happens if we broaden the range of dates we consider even further?
 After all, high temperatures also occur in July, August, and September.
 
 ## How Unusual is 115°F in June through September?
@@ -380,7 +475,7 @@ pnormal2<-fitdistr(dg2,"normal")
 h1<-hist(dg1,breaks=20);
 ```
 
-![](/assets/images/images210707/distns3-1.png)<!-- -->
+![](/images/distns3-1.png)<!-- -->
 
 ``` r
 xhist1<-c(min(h1$breaks),h1$breaks)
@@ -392,7 +487,7 @@ ynfit1<-dnorm(xfit1,pnormal1$estimate[1],pnormal1$estimate[2])
 h2<-hist(dg2,breaks=20);
 ```
 
-![](/assets/images/images210707/distns3-2.png)<!-- -->
+![](/images/distns3-2.png)<!-- -->
 
 ``` r
 xhist2<-c(min(h2$breaks),h2$breaks)
@@ -406,19 +501,18 @@ ynfit2<-dnorm(xfit2,pnormal2$estimate[1],pnormal2$estimate[2])
 lines(xfit1,ynfit1,col="red")}
 ```
 
-![](/assets/images/images210707/bestfit3-1.png)<!-- -->
+![](/images/bestfit3-1.png)<!-- -->
 
 ``` r
 {plot(xhist2,yhist2,type="s",ylim=c(0,max(yhist2,ynfit)),main="Best Normal approximation to highs at the Portland International Airport")
 lines(xfit2,ynfit2,col="red")}
 ```
 
-![](/assets/images/images210707/bestfit3-2.png)<!-- -->
-
-These plots show this set of daily high temperatures over a longer part
-of the year is much closer to a Gaussian distribution, so we can feel
-more comfortable with the high temp on June 28th was a “one in 800 year”
-event, at least in the context of 20th century records for Portland, OR.
+![](/images/bestfit3-2.png)<!-- --> These plots show this set of daily
+high temperaturews over a longer aprt of the year is much closer to a
+Gaussian distribution, so we can feel more comfortable with the high
+temp on June 28th was a “one in 800 year” event, at least in the context
+of 20th century records for Portland, OR.
 
 ## Conclusion
 
