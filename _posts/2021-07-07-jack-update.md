@@ -10,7 +10,7 @@ Jack, Naomi, and Tim arrived at their assigned Mayo Clinic surgical center on ti
 
 ### 5:30am
 
-Arrived.  Jack gets checked in, changes, gets and update from some staff, and is ready to go by 7:48am.
+Arrived.  Jack gets checked in, changes, gets an update from some staff, and is ready to go by 7:48am.
 
 ### 9:02am
 
