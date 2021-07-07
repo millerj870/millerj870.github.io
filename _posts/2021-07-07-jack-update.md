@@ -41,6 +41,11 @@ The thymoma was relatively early in its growth.  Although a thymoma is always re
 
 Jack is still in recovery.  It might be a little while yet before he is brought to his hospital room where Naomi and Tim are waiting.
 
+### 3:10pm
+
+Jack arrived in his hospital room saying, “Feels like my side has been hit by a truck.”  The nurse said they will be working on his pain medications and later this evening they will “get him up, walk a bit and have him sit in a chair to eat.”
+
+
 <!--
 SYNTAX FOR IMAGES
 * use services to create JPG and to create thumbnail that is 720px wide
