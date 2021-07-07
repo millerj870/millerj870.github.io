@@ -37,6 +37,8 @@ Mayo reports that Jack has been moved to the recovery area and is waking up.
 
 Dr. Cassivi has spoken with Naomi and Tim and reporting that the procedure went very well.  
 
+He started his post-op report by saying, “I removed Jack’s thymoma but I left his sense of humor.”  Naomi thought that was great!
+
 The thymoma was relatively early in its growth.  Although a thymoma is always regarded as cancerous, this mass was still contained in a sheath from the thymus and was easily removed.  It was slightly attached to some lung tissue, so Dr. Cassivi did shave some of that tissue off to remove the mass.  Jack will have a drainage tube for this reason, but the doctor anticipated that the tube would be removed soon (maybe tomorrow).  Because the thymoma was encapsulated, there will be no need for radiation or chemotherapy.
 
 Jack is still in recovery.  It might be a little while yet before he is brought to his hospital room where Naomi and Tim are waiting.
