@@ -6,13 +6,13 @@ date: 2021-07-06
 tags: jack
 ---
 
-Today, Jack had some final pre-operation meetings and tests.  He and Naomi and Tim met with the surgical team, received COVID tests, and got information about the procedure and its post-operative care.
+Today, Jack had some final pre-operation meetings and tests.  He and Naomi and Tim met with the surgical team, received COVID tests, and got information about the procedure and post-operative care.
 
 One test result that we’re celebrating is Jack’s creatinine level, which now stands at 1.4!  (Recall that in May and early June his creatinine was over 7.0 and a normal level is 1.0.)  
 
 Jack is supposed to rise with the birds and report to the hospital at 5:30am for final preparation and the procedure.  It sounds like the anesthesiologist is aware of Jack’s healing kidneys and will avoid NSAIDs during the surgery.  Other than that, Jack will have a standard plan for pain management afterward:  controlled and monitored opiate-based pain medication at first followed by non-opiate prescriptions.
 
-tomorrow, we’ll post updates here as they become available. 
+Tomorrow, we’ll post updates here as they become available. 
 
 <!--
 SYNTAX FOR IMAGES
