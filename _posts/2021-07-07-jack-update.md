@@ -24,7 +24,7 @@ The surgery status display says, “The patient's procedure is starting to close
 
 Below is a picture of the status display that keeps Naomi and Tim updated.  The picture was taking shortly before 11am.  Click on the image to see Jack’s status highlighted.
 
-[![Waiting room at the Mayo Clinic surgical center.](/assets/images/jack-status-displays.jpeg)](/assets/images/jack-status-displays-zoom.jpg)
+[![Waiting room at the Mayo Clinic surgical center.](/assets/images/jack-status-displays.jpg)](/assets/images/jack-status-displays-zoom.jpg)
 
 
 
