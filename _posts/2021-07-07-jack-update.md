@@ -16,7 +16,7 @@ Arrived.  Jack gets checked in, changes, gets and update from some staff, and is
 
 The status display in the waiting room says Jack’s procedure started at 9:02am.  (You can see the displays at the far end of the waiting room, pictured below.)
 
-[![Waiting room at the Mayo Clinic surgical center.](/assets/images/jack-waiting-room-at-Mayo-thumbnail.jpg)](/assets/images/jack-waiting-room-at-Mayo.jpg)
+[![Waiting room at the Mayo Clinic surgical center.](/assets/images/jack-waiting-room-at-Mayo-thumbnail.jpeg)](/assets/images/jack-waiting-room-at-Mayo.jpeg)
 
 
 <!--
