@@ -2,8 +2,8 @@
 title: Who Incited the Violence?
 author: jason
 date: 2021-01-07
-tags: politics
-layout: post, coup
+tags: politics coup
+layout: post
 ---
 
 Yesterday, President Trump made history.  He is the first American President to incited violence in an effort to overturn an election.  He led the first American coup attempt.  For weeks, Trump had been rallying his base for mobbing Washington DC on the day Congress would certify the Electoral College vote.  
