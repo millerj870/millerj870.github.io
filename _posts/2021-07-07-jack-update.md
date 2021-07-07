@@ -24,11 +24,14 @@ The surgery status display says, “The patient's procedure is starting to close
 
 Below is a picture of the status display that keeps Naomi and Tim updated.  The picture was taking shortly after 11am.  Click on the image to see Jack’s status highlighted.
 
-[![Waiting room at the Mayo Clinic surgical center.](/assets/images/jack-status-displays.jpg)](/assets/images/jack-status-displays-zoom.jpg)
+[![Status displays.](/assets/images/jack-status-displays.jpg)](/assets/images/jack-status-displays-zoom.jpg)
 
 ### 11:43am
 
-Mayo reports that Jack has been moved to the recovery area.
+Mayo reports that Jack has been moved to the recovery area and is waking up.
+
+[![Status display - waking up.](/assets/images/jack-status-waking-thumbnail.jpeg)](/assets/images/jack-status-waking.jpeg)
+
 
 <!--
 SYNTAX FOR IMAGES
