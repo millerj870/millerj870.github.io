@@ -18,6 +18,9 @@ The status display in the waiting room says Jack’s procedure started at 9:02am
 
 [![Waiting room at the Mayo Clinic surgical center.](/assets/images/jack-waiting-room-at-Mayo-thumbnail.jpeg)](/assets/images/jack-waiting-room-at-Mayo.jpeg)
 
+### 11:04am
+
+The surgery status display says, “The patient's procedure is starting to close.”  We’re not exactly sure what this means, but we assume that the main work is done.
 
 <!--
 SYNTAX FOR IMAGES
