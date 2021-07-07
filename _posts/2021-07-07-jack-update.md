@@ -26,7 +26,9 @@ Below is a picture of the status display that keeps Naomi and Tim updated.  The 
 
 [![Waiting room at the Mayo Clinic surgical center.](/assets/images/jack-status-displays.jpg)](/assets/images/jack-status-displays-zoom.jpg)
 
+### 11:43am
 
+Mayo reports that Jack has been moved to the recovery area.
 
 <!--
 SYNTAX FOR IMAGES
