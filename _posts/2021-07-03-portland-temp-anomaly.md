@@ -1,5 +1,5 @@
 ---
-title: "How Unusual was the Portland, OR, high of 115&deg;F on June 28th?"
+title: "How Unusual was the Portland, OR, high temp on June 28th?"
 author: "jason"
 date: 2021-07-03
 layout: post
