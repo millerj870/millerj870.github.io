@@ -25,7 +25,10 @@ June 28th in Portland, OR, and see how unusual a high of 115°F on the
 28th would be.
 
 (A secondary purpose of this post is to show how to fit a probability
-distribution to data and visualize it using relatively basic R tools. A
+distribution to data and visualize it using relatively basic R tools. 
+I'm grateful for Vito Ricci's 
+["Fitting Distributions with R"](https://cran.r-project.org/doc/contrib/Ricci-distributions-en.pdf) 
+for techniques for fitting distributions to temperature data.  A
 copy of the Rmarkdown file that created this post can be found
 [here](/assets/data/2021-07-03-june-28-weather-anomaly.Rmd).)
 
