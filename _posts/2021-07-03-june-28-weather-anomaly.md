@@ -466,3 +466,7 @@ historically very unlikely to happen. Even climate change skeptics
 should look at this as undeniable evidence that something is changing in
 the world around us to make events like this happen more often than this
 historical record says they should be happening.
+
+## Update:  8 July 2021
+
+The [Washington Post](http://wapo.com) published this article today, ["Pacific Northwest heat wave was 'virtually impossible' without climate change, scientists find"](https://www.washingtonpost.com/weather/2021/07/07/pacific-northwest-heat-wave-climate/).  They don't do this statistical analysis, but they do suggest this is a (retrospective) 1000-year event that threatens to become a once in a decade event.
