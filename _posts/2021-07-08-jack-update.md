@@ -1,5 +1,5 @@
 ---
-title: “Jack Update - the next day”
+title: Jack Update - the next day
 author: Jason
 layout: post
 date: 2021-07-08
