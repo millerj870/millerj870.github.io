@@ -1,7 +1,7 @@
 ---
-title: "Test to Jekyll"
+title: "How Unusual was the temperature in Portland, OR, on June 28th?"
 author: "jason"
-date: 2021-07-07
+date: 2021-07-03
 layout: post
 tags: mathematics statistics climate-change R 
 output:
