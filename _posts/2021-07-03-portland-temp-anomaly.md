@@ -290,7 +290,7 @@ pnormal2<-fitdistr(dg2,"normal")
 h1<-hist(dg1,breaks=20);
 ```
 
-![](/imaassets/images/images210703ges/distns2-1.png)<!-- -->
+![](/imaassets/images/images210703/distns2-1.png)<!-- -->
 
 ``` r
 xhist1<-c(min(h1$breaks),h1$breaks)
