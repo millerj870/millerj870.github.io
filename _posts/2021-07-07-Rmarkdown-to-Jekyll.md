@@ -36,7 +36,7 @@ Miller showed ways to set knitr options so images produced by R would be written
 ```
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
-knitr::opts_knit$set(base.dir = 	"/Users/userename/Documents/GitHub/userename.github.io/", base.url = "/")
+knitr::opts_knit$set(base.dir = "/Users/userename/Documents/GitHub/userename.github.io/", base.url = "/")
 knitr::opts_chunk$set(fig.path = "assets/images/subdirectory-for-post/")
 ```
 ```
