@@ -29,7 +29,7 @@ The ‘variant’ value gave me a post with different styling than my Jekyll ins
 
 Then Steven V. Miller’s [“Two Helpful R Markdown/Jekyll Tips for an Easier Blogging Experience”](http://svmiller.com/blog/2019/08/two-helpful-rmarkdown-jekyll-tips/) showed me how to fix that style issue.  It also showed me how to integrate knitting with my local Jekyll site’s organization.
 
-Miller recommended using ‘gfm’ (Github-flavored markdown). for the ‘variant’ value.  When I made this change, my posts looked exactly the way they should.
+Miller recommended using ‘gfm’ (Github-flavored markdown) for the ‘variant’ value.  When I made this change, my posts looked exactly the way they should.
 
 Miller showed ways to set knitr options so images produced by R would be written in a place the Jekyll looks for images.
 
