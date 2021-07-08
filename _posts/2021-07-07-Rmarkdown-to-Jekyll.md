@@ -14,16 +14,16 @@ The first was Johannes C. Hellmuth’s [“Posting Rmarkdowns to your Jekyll web
 ”](https://jchellmuth.com/news/jekyll/website/code/2020/01/04/Rmarkdown-posts-to-Jekyll.html).  It showed me what to add to the YAML header:
 
 ```
-	---
-	layout: post
-	title: title
-	author: author
-	date: YYYY-MM-DD
-	output:
-	  md_document:
-	    variant: markdown_github
-	    preserve_yaml: true
-	---
+---
+layout: post
+title: title
+author: author
+date: YYYY-MM-DD
+output:
+  md_document:
+    variant: markdown_github
+    preserve_yaml: true
+---
 ```
 The ‘variant’ value gave me a post with different styling than my Jekyll instance, unfortunately.
 
@@ -34,11 +34,11 @@ Miller recommended using ‘gfm’ (Github-flavored markdown). for the ‘varian
 Miller showed ways to set knitr options so images produced by R would be written in a place the Jekyll looks for images.
 
 ```
-	```{r setup, include=FALSE}
-	knitr::opts_chunk$set(echo = TRUE)
-	knitr::opts_knit$set(base.dir = 	"/Users/userename/Documents/GitHub/userename.github.io/", base.url = "/")
-	knitr::opts_chunk$set(fig.path = "assets/images/subdirectory-for-post/")
-	```
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_knit$set(base.dir = 	"/Users/userename/Documents/GitHub/userename.github.io/", base.url = "/")
+knitr::opts_chunk$set(fig.path = "assets/images/subdirectory-for-post/")
+```
 ```
 
 I'm planning to make a different iamge subdirectory each time I used Rmarkdown for a Jekyll post.  This way I don't need to worry about naming conventions and accidentally overwriting images I created from previous Rmarkdown posts.
