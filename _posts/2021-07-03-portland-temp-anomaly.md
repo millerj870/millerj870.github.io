@@ -413,7 +413,7 @@ lines(xfit1,ynfit1,col="red")}
 lines(xfit2,ynfit2,col="red")}
 ```
 
-![](/assets/images/images210703/bestfit3-2.png)<!-- -->
+![](/assets/images/images210703/bestfit3-2.png)<!-- --> 
 
 These plots show this set of daily high temperatures over a longer part
 of the year is much closer to a Gaussian distribution, so we can feel
