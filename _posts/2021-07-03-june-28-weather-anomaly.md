@@ -1,13 +1,14 @@
 ---
-title: "How Unusual was the Portland, OR, high temp on June 28th?"
+title: "How Unusual was the Portland, OR, high temperature on June 28th?"
 author: "jason"
-date: 2021-07-03
-layout: post
-tags: mathematics statistics climate-change R 
+date: '2021-07-03'
 output:
   md_document:
-      variant: gfm
-      preserve_yaml: true
+    variant: gfm
+    preserve_yaml: yes
+  pdf_document: default
+tags: mathematics statistics climate-change R
+layout: post
 ---
 
 In late June, I [wrote a short
@@ -161,12 +162,12 @@ Portland, OR, should have a high temperature of 115°F or higher. In R,
 we can calculate those probabilities with the `dnorm` function:
 
 ``` r
-dnorm(df1n)
-dnorm(df2n)
+pnorm(df1n)
+pnorm(df2n)
 ```
 
-returns 1.1418245^{-5} and 1.7117716^{-5}, respectively. This means we’d
-expect a high temp of 115°F on 28 June about once every 10000 years.
+returns 0.9999976 and 0.9999963, respectively. This means we’d expect a
+high temp of 115°F on 28 June about once every 27000 years.
 
 This estimate is terribly rough, and we have little reason to have faith
 in it for two reasons. First, there’s nothing special about June 28th.
@@ -191,7 +192,7 @@ hist(df2$tmax, main="High temperatures on 28 June at the Portland International 
 ![](/assets/images/images210703/hist-stations-2.png)<!-- -->
 
 A normal distribution is symmetric about its ‘center’, or highest point.
-These distributions are not symmstric. They are both skewed right,
+These distributions are not symmetric. They are both skewed right,
 having more mass above their ‘center’, and they have a tail that extends
 farther to the right than to the left. They also appear to be bi-modal,
 having two local maxima.
@@ -201,7 +202,7 @@ use R to find the Gaussian of best fit for each dataset and plot those
 Gaussians against the data’s frequency histogram to get a qualitative
 feeling for how ‘good’ the Gaussian describes the data.
 
-First, we establish our datasets, one for each weather station. We then
+First, we establish our data sets, one for each weather station. We then
 find the normal distribution of best fit.
 
 ``` r
@@ -257,7 +258,7 @@ lines(xfit2,ynfit,col="red")}
 Pretty terrible, right?
 
 Now let’s consider 115°F in the context of historical *June*
-temperatures, relaxing our fixation on the date of June 28th.
+temperatures, relaxing our fixation on the day of June 28th.
 
 ## How Unusual is 115°F in June?
 
@@ -280,20 +281,22 @@ df61<-filter(df6,station=="USW00024274")
 df62<-filter(df6,station=="USW00024229")
 ```
 
-we see the high temperature in Junes was 102°F on June 30, 1942. How
-unusual is that?
+we see the high temperature in Junes was 102°F on June 30, 1942, and the
+lowest high temperature was 51. The expected high temperatures at the
+weather stations were 72.6130631 and 72.9354839, respectively. Our temp
+is 42.0645161 higher than these.
 
 R makes it easy to calculate (not shown) that 115°F is 4.92 and 4.94
 standard deviations above the expected high temperature for a June day
 in Portland, so a day that is that hot or hotter has about a
-2.2108389^{-6} chance of happening on a given day in June June. That’s
-about once every 50000 June days, or once every 1667 years.
+4.3272106^{-7} chance of happening on a given day in June June. That’s
+about once every 2,320,000 June days, or once every 75,000 years.
 
 This assumes that temperatures follow a Gaussian distribution, and we
 already know that assumption is suspect. Let’s use R to make a visual
 check of this.
 
-First, we establish our datasets, one for each weather station. We then
+First, we establish our data sets, one for each weather station. We then
 find the normal distribution of best fit.
 
 ``` r
@@ -305,7 +308,7 @@ pnormal1<-fitdistr(dg1,"normal")
 pnormal2<-fitdistr(dg2,"normal")
 ```
 
-Second, we calculate the histograms of each dataset so we can work with
+Second, we calculate the histograms of each data set so we can work with
 the frequency distribution of the temperatures and construct the the
 Gaussian of best fit for visualization.
 
@@ -379,20 +382,24 @@ dfsum2<-filter(dfsummer,station=="USW00024229")
 ```
 
 we see the high temperature during these months was 107°F on July 2,
-1942, July 30, 1965, and August 8 and 10, 1981.
+1942, July 30, 1965, and August 8 and 10, 1981 and the lowest high
+temperature was 50. The expected high temperatures at the weather
+stations were 75.8188025 and 76.8212586, respectively. Our temp is
+38.1787414 higher than these.
 
-Even with a higher high temperature, we can calcualte that 115°F is 4.48
-and 4.29 standard deviations above the expected temperature during this
-period. So the probability that a day in June, July, August of September
-(a particular third of the year) has a high of 115°F or higher is
-0.00004. That means that we expect a day to have this temperature once
-every 833 years.
+Even with a higher high temperature, we can calculate that 115°F is
+4.4777521 and 4.2873669 standard deviations above the expected
+temperature during this period. So the probability that a day in June,
+July, August of September (a particular third of the year) has a high of
+115°F or higher is 9.0401778^{-6}. That means that we expect a day to
+have this temperature once every 111,000 summer days, or once every 900
+years.
 
 This assumes that temperatures follow a Gaussian distribution, and we
 already know that assumption is suspect. Let’s use R to make a visual
 check of this.
 
-First, we establish our datasets, one for each weather station. We then
+First, we establish our data sets, one for each weather station. We then
 find the normal distribution of best fit.
 
 ``` r
@@ -404,7 +411,7 @@ pnormal1<-fitdistr(dg1,"normal")
 pnormal2<-fitdistr(dg2,"normal")
 ```
 
-Second, we calculate the histograms of each dataset so we can work with
+Second, we calculate the histograms of each data set so we can work with
 the frequency distribution of the temperatures and construct the the
 Gaussian of best fit for visualization.
 
@@ -429,7 +436,8 @@ ynfit2<-dnorm(xfit2,pnormal2$estimate[1],pnormal2$estimate[2])
 ```
 
 Last, we visualize the data and the Gaussian of best fit, noting the
-Gaussians don’t describe the data very well.
+Gaussians don’t describe the data perfectly, but they’re better in this
+case than either of the previous.
 
 ``` r
 {plot(xhist1,yhist1,type="s",ylim=c(0,max(yhist1,ynfit)),main="Best Normal approximation to highs at the Portland Regional Forecast Office")
