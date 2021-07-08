@@ -177,13 +177,13 @@ of temperatures.
 hist(df1$tmax, main="High temperatures on 28 June at the Portland Regional Forecast Office")
 ```
 
-![](/images/hist-stations-1.png)<!-- -->
+![](/assets/images/images210703/hist-stations-1.png)<!-- -->
 
 ``` r
 hist(df2$tmax, main="High temperatures on 28 June at the Portland International Airport")
 ```
 
-![](/images/hist-stations-2.png)<!-- -->
+![](/assets/images/images210703/hist-stations-2.png)<!-- -->
 
 A normal distribution is symmetric about its ‘center’, or highest point.
 These distributions are not symmstric. They are both skewed right,
@@ -206,7 +206,7 @@ pnormal2<-fitdistr(dg2,"normal")
 h1<-hist(dg1,breaks=20);
 ```
 
-![](/images/distns-1.png)<!-- -->
+![](/assets/images/images210703/distns-1.png)<!-- -->
 
 ``` r
 xhist1<-c(min(h1$breaks),h1$breaks)
@@ -217,7 +217,7 @@ ynfit<-dnorm(xfit1,pnormal1$estimate[1],pnormal1$estimate[2])
 h2<-hist(dg2,breaks=20);
 ```
 
-![](/images/distns-2.png)<!-- -->
+![](/assets/images/images210703/distns-2.png)<!-- -->
 
 ``` r
 xhist2<-c(min(h2$breaks),h2$breaks)
@@ -231,14 +231,14 @@ ynfit<-dnorm(xfit2,pnormal2$estimate[1],pnormal2$estimate[2])
 lines(xfit1,ynfit,col="red")}
 ```
 
-![](/images/bestfit-1.png)<!-- -->
+![](/assets/images/images210703/bestfit-1.png)<!-- -->
 
 ``` r
 {plot(xhist2,yhist2,type="s",ylim=c(0,max(yhist2,ynfit)),main="Best Normal approximation to highs at the Portland International Airport")
 lines(xfit2,ynfit,col="red")}
 ```
 
-![](/images/bestfit-2.png)<!-- -->
+![](/assets/images/images210703/bestfit-2.png)<!-- -->
 
 Pretty terrible, right?
 
@@ -290,7 +290,7 @@ pnormal2<-fitdistr(dg2,"normal")
 h1<-hist(dg1,breaks=20);
 ```
 
-![](/images/distns2-1.png)<!-- -->
+![](/imaassets/images/images210703ges/distns2-1.png)<!-- -->
 
 ``` r
 xhist1<-c(min(h1$breaks),h1$breaks)
@@ -302,7 +302,7 @@ ynfit1<-dnorm(xfit1,pnormal1$estimate[1],pnormal1$estimate[2])
 h2<-hist(dg2,breaks=20);
 ```
 
-![](/images/distns2-2.png)<!-- -->
+![](/assets/images/images210703/distns2-2.png)<!-- -->
 
 ``` r
 xhist2<-c(min(h2$breaks),h2$breaks)
@@ -316,14 +316,14 @@ ynfit2<-dnorm(xfit2,pnormal2$estimate[1],pnormal2$estimate[2])
 lines(xfit1,ynfit1,col="red")}
 ```
 
-![](/images/bestfit2-1.png)<!-- -->
+![](/assets/images/images210703/bestfit2-1.png)<!-- -->
 
 ``` r
 {plot(xhist2,yhist2,type="s",ylim=c(0,max(yhist2,ynfit)),main="Best Normal approximation to highs at the Portland International Airport")
 lines(xfit2,ynfit2,col="red")}
 ```
 
-![](/images/bestfit2-2.png)<!-- -->
+![](/assets/images/images210703/bestfit2-2.png)<!-- -->
 
 We see that the Gaussian fits better, but it’s not perfect. The mean of
 the Gaussian is a bit above the mode of the temperature distribution,
@@ -380,7 +380,7 @@ pnormal2<-fitdistr(dg2,"normal")
 h1<-hist(dg1,breaks=20);
 ```
 
-![](/images/distns3-1.png)<!-- -->
+![](/assets/images/images210703/distns3-1.png)<!-- -->
 
 ``` r
 xhist1<-c(min(h1$breaks),h1$breaks)
@@ -392,7 +392,7 @@ ynfit1<-dnorm(xfit1,pnormal1$estimate[1],pnormal1$estimate[2])
 h2<-hist(dg2,breaks=20);
 ```
 
-![](/images/distns3-2.png)<!-- -->
+![](/assets/images/images210703/distns3-2.png)<!-- -->
 
 ``` r
 xhist2<-c(min(h2$breaks),h2$breaks)
@@ -406,14 +406,14 @@ ynfit2<-dnorm(xfit2,pnormal2$estimate[1],pnormal2$estimate[2])
 lines(xfit1,ynfit1,col="red")}
 ```
 
-![](/images/bestfit3-1.png)<!-- -->
+![](/assets/images/images210703/bestfit3-1.png)<!-- -->
 
 ``` r
 {plot(xhist2,yhist2,type="s",ylim=c(0,max(yhist2,ynfit)),main="Best Normal approximation to highs at the Portland International Airport")
 lines(xfit2,ynfit2,col="red")}
 ```
 
-![](/images/bestfit3-2.png)<!-- -->
+![](/assets/images/images210703/bestfit3-2.png)<!-- -->
 
 These plots show this set of daily high temperatures over a longer part
 of the year is much closer to a Gaussian distribution, so we can feel
