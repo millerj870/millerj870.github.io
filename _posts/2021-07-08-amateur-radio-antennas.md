@@ -20,9 +20,9 @@ You can’t do much with a radio without an antenna, and the whip antenna on a h
 
 My HOA is unpredictable.  I know that if I put up something that visible, someone is bound to complain and I’ll get a letter.  I want my first antenna to be subtle.  I don’t want any trouble from my neighbors.  So the other day I posted a question to the “So-Cal Amateur Radio Group” on Facebook.
 
-	Can anyone suggest a low-cost idea for an antenna I could mount in (or on?) 
-	my house that would give my HT a bit more reception range?  I'm in a 
-	neighborhood that has a dumb HOA, so I need to be sneaky if it's outside.  TIA.
+<q>
+Can anyone suggest a low-cost idea for an antenna I could mount in (or on?) my house that would give my HT a bit more reception range?  I'm in a neighborhood that has a dumb HOA, so I need to be sneaky if it's outside.  TIA.
+</q>
 
 The next morning morning I had several helpful responses, and no snarky responses.  Score one for this group of hams!  (Other subject-groups on Facebook have a high jerk-to-kind ratio.) Here are some ideas that were shared by those who posted:
 
