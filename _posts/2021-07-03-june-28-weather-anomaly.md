@@ -470,6 +470,8 @@ should look at this as undeniable evidence that something is changing in
 the world around us to make events like this happen more often than this
 historical record says they should be happening.
 
-## Update:  8 July 2021
+## Updates:  week of 9 July 2021
 
 The [Washington Post](http://wapo.com) published this article today, ["Pacific Northwest heat wave was 'virtually impossible' without climate change, scientists find"](https://www.washingtonpost.com/weather/2021/07/07/pacific-northwest-heat-wave-climate/).  They don't do this statistical analysis, but they do suggest this is a (retrospective) 1000-year event that threatens to become a once in a decade event.
+
+Buzzfeed news published an article ["In Case You Had Any Doubts, Scientists Found Climate Change Was Definitely Behind The Deadly Pacific Northwest Heat Wave”"](https://www.buzzfeednews.com/article/zahrahirji/pacific-northwest-heat-wave-climate-change?bftwnews&utm_term=4ldqpgc#4ldqpgc) that cites scientists describing the PNW heatwave as a 1-in-a-1000 year event made possible by global climate change.
