@@ -1,9 +1,5 @@
 ---
-<<<<<<< HEAD
-title: “Jack Update - Day One Post-Op”
-=======
-title: Jack Update - the next day
->>>>>>> f5f7f3e791e821f02c41f947d1df187d21a4b736
+title: Jack Update - Day One Post-Op
 author: Jason
 layout: post
 date: 2021-07-08
