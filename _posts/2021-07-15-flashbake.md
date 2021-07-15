@@ -20,6 +20,10 @@ A Google search revealed that a version is still alive and being maintained (as 
 
 Now I need to download it and start using it again. This should be fun.
 
+## Update: macports
+
+Flashbake is actually a package in macports!
+
 <!--
 SYNTAX FOR IMAGES
 * use services to create JPG and to create thumbnail that is 720px wide
