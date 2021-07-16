@@ -12,7 +12,7 @@ In a [HubSpot](https://www.hubspot.com) tutorial on [git for beginners](https://
 
 <quote>
 By default, every git repository’s first branch is named `master` (and is typically used as the primary branch in the project). As part of the tech industry’s general anti-racism work, some groups have begun to use alternate names for the default branch (we are using “primary” in this tutorial, for example).
-<\quote>
+</quote>
 
 Kudos to these folks!  If you want to know how to change the default name of the primary branch of your git repository from ‘master’ (the default) to something less charged (like ‘primary’), here’s the command:
 
