@@ -10,9 +10,9 @@ In these post-George-Floyd times where the apartheid-hiding bandages have been r
 
 In a [HubSpot](https://www.hubspot.com) tutorial on [git for beginners](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners), I ran across this text:
 
-<quotation>
+<blockquote>
 By default, every git repository’s first branch is named `master` (and is typically used as the primary branch in the project). As part of the tech industry’s general anti-racism work, some groups have begun to use alternate names for the default branch (we are using “primary” in this tutorial, for example).
-</quotation>
+</blockquote>
 
 Kudos to these folks!  If you want to know how to change the default name of the primary branch of your git repository from ‘master’ (the default) to something less charged (like ‘primary’), here’s the command:
 
