@@ -139,9 +139,9 @@ This script does *almost* all the reformatting that needs to happen.  There's a 
 
 The script and the output are linked here:
 
-* [python script](_assets/data/fcc-General-reformatting-regex.py)
-* [markdown-ified output](_assets/data/fcc-General-reformatted.md)
-* [output (PDF format)](_assets/data/fcc-General-reformatted.pdf)
+* [python script](/assets/data/fcc-General-reformatting-regex.py)
+* [markdown-ified output](/assets/data/fcc-General-reformatted.md)
+* [output (PDF format)](/assets/data/fcc-General-reformatted.pdf)
 
 
 A couple other things I'd like to add include
