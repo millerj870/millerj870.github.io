@@ -3,7 +3,7 @@ author: jason
 date: 2009-12-22 08:08:00+00:00
 layout: post
 title: America needs more Scientists and Mathematicians.  But are we STEM-folks hurting our cause?
-tags: biomath mathematic STEM
+tags: biomath mathbio mathematic STEM
 ---
 
 This post is inspired by the overblown and overhyped forecasts of American major media (and government) meteorologists. their recommendations regarding severe weather and dangerous travel have always seemed hyperbolic to me. Then, when I read the Discovery.com blog post <a href="http://blogs.discovermagazine.com/badastronomy/2009/12/21/mayon-volcano-ready-to-blow/">here</a>, I felt one of my buttons pushed, and I had to express this exasperation somewhere. Here's the quote from the post that set me off: 

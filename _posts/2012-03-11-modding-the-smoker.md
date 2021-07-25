@@ -3,7 +3,7 @@ author: jason
 date: 2012-03-11 23:27:00+00:00
 layout: post
 title: Modding the Smoker
-tags:  making food
+tags:  maker food
 ---
 
 Last week, I caught up with an old friend who had turned me on to cooking with a smoker. I love grilling, whether it be over gas, over charcoal, or over an open pit fire.  So adding a smoker to my collection of cooking tools was a thrill. My smoker is an old Traeger Lil' Tex. This smoker burns wood pellets that are drawn slowly into an ignition well by an electric auger. The smoking temperature is regulated by a three position thermostat.  Its setting are smoke, medium, and high.  This doesn't give much control over the cooking temperature.  When my old friend said he had a couple digital thermostats gathering dust on a garage shelf, I jumped at the chance to upgrade.  Here's how it worked.
