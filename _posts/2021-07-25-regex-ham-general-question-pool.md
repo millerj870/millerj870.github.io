@@ -16,16 +16,16 @@ Their test-taking strategy was to condition yourself on the questions and their 
 
 If they had made a study guide for the General class exam, this is how one of the questions and answers might have looked.
 
-<quotation>
+<font color=”blue>
 G1C15 (D) \[97.313\]
 What measurement is specified by FCC rules that regulate maximum power output?
 A. RMS
 B. Average
 C. Forward
 C. Forward
-**D. PEP
-**~~
-</quotation>
+<b>D. PEP
+</b>~~
+</font>
 
 Even though that strategy worked for me, as a teacher, it goes against my learning and teaching philosophy.  But for a license, my philosophy is to get the license first without dishonest work and then learn more deeply later, through practice.  And because the FCC makes the question pool available to the public, I decided to take the same approach for the General exam.
 
