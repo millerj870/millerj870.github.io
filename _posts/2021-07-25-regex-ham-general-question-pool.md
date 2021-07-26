@@ -8,9 +8,9 @@ tags: amateur-radio script maker coding python regex markdown ham
 
 Last week I decided to study for and take the FCC Amateur Radio License exam for a General class license.  I earned the Technician class license a couple years ago, and I've been spending some time this summer learning more about my radios.  I learned that my fiddling with antennas and things has significant overlap with topics on the General exam.  So I shrugged and decided to prepare for it.
 
-A trick I learned while preparing for the Technician's exam makes the idea of taking another exam less daunting.  I [took a class](https://www.qualitymatrix.com/hamclass/) where the instructors, Norm and Nancy Godkin, gave us a handout that consisted of the exam's question pool.  Each question appeared with the multiple choice answer options, and the correct option was printed in bold.
+A trick I learned while preparing for the Technician's exam makes the idea of taking another exam less daunting.  I [took a class](https://www.qualitymatrix.com/hamclass/) where the instructors, Norm and Nancy Goodkin, gave us a handout that consisted of the exam's question pool.  Each question appeared with the multiple choice answer options, and the correct option was printed in bold.
 
-"Only memorize the correct answer,"  the Godkins told the class.  "The others are just **distractors**.  Spending any time on the incorrect answers will confuse you."
+"Only memorize the correct answer,"  the Goodkins told the class.  "The others are just **distractors**.  Spending any time on the incorrect answers will confuse you."
 
 Their test-taking strategy was to condition yourself on the questions and their correct answers so that when you see them in the exam environment, the correct answer will be likely to jump out at you.  (Or your gut will direct you to "guess" the correct one.)
 
@@ -31,7 +31,7 @@ Even though that strategy worked for me, as a teacher, it goes against my learni
 
 A quick Google search pointed to the official question and answer pool for the 2019-2023 exams here: [Public Domain Release 2019-2023 General Class Pool](http://www.ncvec.org/page.php?id=364).  I downloaded the document as a text file.
 
-It took me a while to notice that the answer key is embedded in the pool document itself.  Once I noticed that, I knew it would be easy (in theory) to use regular expressions to reformat the multiple choice questions in the same way the Godkins did.
+It took me a while to notice that the answer key is embedded in the pool document itself.  Once I noticed that, I knew it would be easy (in theory) to use regular expressions to reformat the multiple choice questions in the same way the Goodkins did.
 
 As anyone who exists on the periphery of computer programming knows, it can take a long time to come up with a simple script.  This endeavor into reformatting was no different for me.  First, I figured how to do it in the BBEdit text editor (which has some nice tools for testing and deploying regular expressions).  Then, after recognizing a multi-step reformatting process would benefit from being scripted, I reproduced my BBEdit work in python.  This may have taken longer than just a line-by-line edit of the questions and answers, but if I do this again (in 2023) or if someone else uses this work to help them, it will be worth it.
 
@@ -86,7 +86,7 @@ I could have dealt with the title by hand, but I used this for the search
 # \0
 ```
 
-With that reformatting done, I did a University search and replace to add a slash in front of every `[` because markdown reserves those for hyperlinks.  Then I added a note to the start of the document and violá!  I had a Godkin-ized study document.  (I will link it to the end of this posting.)
+With that reformatting done, I did a University search and replace to add a slash in front of every `[` because markdown reserves those for hyperlinks.  Then I added a note to the start of the document and violá!  I had a Goodkin-ized study document.  (I will link it to the end of this posting.)
 
 Then I went down a sort of rabbit hole.
 
