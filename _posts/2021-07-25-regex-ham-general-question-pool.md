@@ -14,6 +14,19 @@ A trick I learned while preparing for the Technician's exam makes the idea of ta
 
 Their test-taking strategy was to condition yourself on the questions and their correct answers so that when you see them in the exam environment, the correct answer will be likely to jump out at you.  (Or your gut will direct you to "guess" the correct one.)
 
+If they had made a study guide for the General class exam, this is how one of the questions and answers might have looked.
+
+<blockquote>
+G1C15 (D) \[97.313\]
+What measurement is specified by FCC rules that regulate maximum power output?
+A. RMS
+B. Average
+C. Forward
+C. Forward
+**D. PEP
+**~~
+</blockquote>
+
 Even though that strategy worked for me, as a teacher, it goes against my learning and teaching philosophy.  But for a license, my philosophy is to get the license first without dishonest work and then learn more deeply later, through practice.  And because the FCC makes the question pool available to the public, I decided to take the same approach for the General exam.
 
 A quick Google search pointed to the official question and answer pool for the 2019-2023 exams here: [Public Domain Release 2019-2023 General Class Pool](http://www.ncvec.org/page.php?id=364).  I downloaded the document as a text file.
@@ -74,6 +87,8 @@ I could have dealt with the title by hand, but I used this for the search
 ```
 
 With that reformatting done, I did a University search and replace to add a slash in front of every `[` because markdown reserves those for hyperlinks.  Then I added a note to the start of the document and violá!  I had a Godkin-ized study document.  (I will link it to the end of this posting.)
+
+Then I went down a sort of rabbit hole.
 
 ## Reformatting with Python
 
@@ -141,13 +156,17 @@ The script and the output are linked here:
 
 * [python script](/assets/data/fcc-General-reformatting-regex.py)
 * [markdown-ified output](/assets/data/fcc-General-reformatted.md)
-* [output (PDF format)](/assets/data/fcc-General-reformatted.pdf)
+* [edited markdown output]((/assets/data/fcc-General-reformatted-edited.pdf))
+* [edited markdown output (PDF format)](/assets/data/fcc-General-reformatted-edited.pdf)
 
+Even with the script, there are a couple other things that need to be done by hand, anyway:
 
-A couple other things I'd like to add include
+* a global search and replace for a quotation character that my text editor didn't like (YMMV)
+* adding the missing grahic for the questions in section G7-1
+* adding a colophon (at the end) that explains what I did to reformat the question pool
 
-* add the missing gr
-* a header that explains what I did to reformat that question pool
+A couple things I would like to add to the script include
+
 * some formatting that will make the questions easier to read (*e.g.*, italicizing the distractors and the heading to the question)
 * figuring out how to edit the content of a capturing group to add formatting (add bold face to the answer line, italicize the lead-in information for each question, *etc.*)
 
