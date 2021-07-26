@@ -16,14 +16,14 @@ Their test-taking strategy was to condition yourself on the questions and their 
 
 If they had made a study guide for the General class exam, this is how one of the questions and answers might have looked.
 
-<font color=”blue>
-G1C15 (D) \[97.313\]
-What measurement is specified by FCC rules that regulate maximum power output?
-A. RMS
-B. Average
-C. Forward
-C. Forward
-<b>D. PEP
+<font color=”blue”>
+G1C15 (D) \[97.313\] <br>
+What measurement is specified by FCC rules that regulate maximum power output?<br>
+A. RMS<br>
+B. Average<br>
+C. Forward<br>
+C. Forward<br>
+<b>D. PEP<br>
 </b>~~
 </font>
 
