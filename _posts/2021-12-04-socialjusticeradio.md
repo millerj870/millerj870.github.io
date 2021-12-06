@@ -3,7 +3,7 @@ title: Preliminary Thoughts on Social Justice Radio
 author: Jason
 layout: post
 date: 2021-12-04
-tags: ham, amateur radio, social justice
+tags: ham amateur-radio social-justice
 ---
 
 Individuals who have an amateur radio license often exercise their radio skills by volunteering for community communications service.  I volunteered to work at Camarillo's annual air show where I walked around the grounds with my handheld radio and tried to help answer questions from attendees and alert show organizers of problems when I saw them.  I also volunteered at a parade and helped the manager queue floats and rolling exhibits, updating the announcers a mile away if there were discrepancies with the written program.  Next week, I volunteer at a half marathon where I'll ride behind the runners and report on their progress.  While these kinds of volunteer activites are enjoyable and have value, I've been thinking about other creative ways to use communications skills in the service of the public good, and I been wondering about social justice efforts.
