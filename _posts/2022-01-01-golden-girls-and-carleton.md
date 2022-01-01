@@ -6,7 +6,7 @@ date: 2022-01-01
 tags: apocrypha popular-culture stolaf betty-white
 ---
 
-Betty White passed away yesterday.  Well-wishers flooded twitter with messages mourning her passing and celebrating her life.  One tweet from @jxeker shared a clip from *The Golden Girls* where Rose Nyland (betty White's character) is telling a story from her past to help her friends resolve a problem.  The clip shows her actor colleagues breaking character under the pressure  of Ms. White's comic chops.
+Betty White passed away yesterday.  Well-wishers flooded twitter with messages mourning her passing and celebrating her life.  One tweet from @jxeker shared a clip from *The Golden Girls* where Rose Nyland (Betty White's character) is telling a story from her past to help her friends resolve a problem.  The clip shows her actor colleagues breaking character under the pressure  of Ms. White's comic chops.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I was just thinking: <a href="https://t.co/0efirriS0a">pic.twitter.com/0efirriS0a</a></p>&mdash; Lena Jessica 😷 (@lenajessica) <a href="https://twitter.com/lenajessica/status/1477021695210885124?ref_src=twsrc%5Etfw">December 31, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
