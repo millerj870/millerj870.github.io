@@ -37,13 +37,13 @@ If you can help find and primary sources (*e.g.*, document, people) or connect m
 
 EDIT:  Another person who is mentioned as a writer on *The Golden Girls*, and someone who may have started as an intern on the show, is [Christopher Lloyd](https://www.imdb.com/name/nm0515941/?ref_=ttfc_fc_wr20).  He's a Yale graduate.
 
-EDIT: (16 January 2022)  In ["Back in 1992, Betty White visited Minnesota's real St. Olaf"](https://www.startribune.com/back-in-1992-betty-white-visited-minnesotas-real-st-olaf/600136234/) that appeared January 15th in the Start Tribune, Curt Brown,  In his article, he says
+EDIT: (16 January 2022)  In ["Back in 1992, Betty White visited Minnesota's real St. Olaf"](https://www.startribune.com/back-in-1992-betty-white-visited-minnesotas-real-st-olaf/600136234/) that appeared January 15th in the Start Tribune, Curt Brown writes
 
 >White's bond with St. Olaf started in the mid-1980s, when a Hollywood producer called Dan Jorgensen out of the blue at his office at the college, where he worked in public relations.
 >
 >The TV guy wanted to give the college a heads up: They were going to feature White as a character from made-up St. Olaf, Minn. Jorgensen checked with the college president, who agreed it couldn't hurt.
 
-WHile it probably wasn't the producer's idea to give Rose the Olaf backstory, there may be a producer out there who can verify that this tale of a college rival is true.
+While it probably wasn't the producer's idea to give Rose the Olaf backstory, there may be a producer out there who can verify that this tale of a college rival is true.
 
 [^1]: IMDB entry for [the Golden Girls](https://www.imdb.com/title/tt0088526/)
 [^2]:  Students of St. Olaf College refer to themselves as Oles.  Students of Carleton refer to themselves as Carls.
