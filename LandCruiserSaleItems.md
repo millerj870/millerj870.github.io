@@ -13,6 +13,7 @@ All items are sold as-is ... this page has high quality pics you can use to eval
 
 I prefer a buyer 'pick up' the items they pay for, but I'm reluctantly willing to ship.  Buyer will pay the cost of packing and shipping via UPS.
 
+**For what it's worth**, I am open to other offers and barter (*e.g.*, ham radio, camping, tools).
 
 | Item Name | Notes | Price | Image |
 |:---|:---|---:|---:|
