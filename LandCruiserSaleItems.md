@@ -9,7 +9,7 @@ In July 2023, some noob rear-ended my rig on the freeway.  This was the opening 
 
 Each item has a 'price' next to it.  This figure is half the cost of the same new part listed on this [Toyota Parts Center](https://parts.olathetoyota.com/v-2004-toyota-land-cruiser--base--4-7l-v8-gas/) web site.
 
-All items are sold as-is ... this page has high quality pics you can use to evaluate each piece.  (Click on the thumbnail for a larger image.)  These parts won't be available forever.  
+All items are sold as-is ... this page has high quality pics (sometime two for an item) you can use to evaluate each piece.  (Click on the thumbnail for a larger image.)  These parts won't be available forever.  
 
 I prefer a buyer 'pick up' the items they pay for, but I'm reluctantly willing to ship.  Buyer will pay the cost of packing and shipping via UPS.
 

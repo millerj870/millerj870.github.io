@@ -11,6 +11,7 @@ This web page lists my gear that is for sale.  As items sell, I will mark them s
 
 Each item is listed with an Item Name (linked to the listing of a new comparable item and where possible, where I bought it), some notes, an asking price, and a recent picture (taken in my garage with a sheet as backdrop) -- click on the pic for a larger version.  *I am willing to entertain any reasonable offers on this stuff.*  It really wants to find a new home.
 
+**For what it's worth**, I am open to other offers and barter (*e.g.*, ham radio, camping, tools).
 
 | Item Name | Notes | Price | Image |
 |:---|:---|---:|---:|
