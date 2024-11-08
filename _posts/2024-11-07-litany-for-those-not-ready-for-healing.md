@@ -17,7 +17,7 @@ Let us not be afraid to sit with the ugliness, the messiness, and the pain that 
 Let us not offer clichés to the grieving, those whose hearts are being torn asunder.<br>
 </quote>
 
-These lines are excerpts from **[A Litany for Those not Ready for Healing](https://uuwestport.org/a-litany-for-those-not-ready-for-healing-by-dr-yolanda-pierce/)**, Dr. Yolanda Pierce.
+<p>These lines are excerpts from **[A Litany for Those not Ready for Healing](https://uuwestport.org/a-litany-for-those-not-ready-for-healing-by-dr-yolanda-pierce/)**, Dr. Yolanda Pierce.
 
 <!--
 SYNTAX FOR IMAGES
