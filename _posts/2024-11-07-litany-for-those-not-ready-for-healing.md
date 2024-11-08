@@ -6,7 +6,7 @@ date: 2024-11-07
 tags: 47, election 
 ---
 
-<p>A couple days after the 2024 U.S. election, a friend posted this to Facebook because they found the words and ideas helpful as they struggled to come to grips with the cold hard fact that so many of our neighbors embrace the MAGAt brand of politics.
+A couple days after the 2024 U.S. election, a friend posted this to Facebook because they found the words and ideas helpful as they struggled to come to grips with the cold hard fact that so many of our neighbors embrace the MAGAt brand of politics.
 
 
 <quotation>
@@ -18,8 +18,9 @@ Let us not offer clichés to the grieving, those whose hearts are being torn asu
 </quotation>
 
 
+<hr>
 
-These lines are excerpts from [**A Litany for Those not Ready for Healing**](https://uuwestport.org/a-litany-for-those-not-ready-for-healing-by-dr-yolanda-pierce/), Dr. Yolanda Pierce.
+These lines are excerpts from **[A Litany for Those not Ready for Healing](https://uuwestport.org/a-litany-for-those-not-ready-for-healing-by-dr-yolanda-pierce/)**, Dr. Yolanda Pierce.
 
 <!--
 SYNTAX FOR IMAGES
