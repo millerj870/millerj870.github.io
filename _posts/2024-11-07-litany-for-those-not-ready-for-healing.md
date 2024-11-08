@@ -6,18 +6,20 @@ date: 2024-11-07
 tags: 47, election 
 ---
 
-A couple days after the 2024 U.S. election, a friend posted this to Facebook because they found the words and ideas helpful as they struggled to come to grips with the cold hard fact that so many of our neighbors embrace the MAGAt brand of politics.
+<p>A couple days after the 2024 U.S. election, a friend posted this to Facebook because they found the words and ideas helpful as they struggled to come to grips with the cold hard fact that so many of our neighbors embrace the MAGAt brand of politics.
 
 
-<quote>
+<quotation>
   Let us not rush to the language of healing, before understanding the fullness of the injury and the depth of the wound.<br>
 Let us not rush to offer a band-aid, when the gaping wound requires surgery and complete reconstruction.<br>
 Let us not offer false equivalencies, thereby diminishing the particular pain being felt in a particular circumstance in a particular historical moment.<br>
 Let us not be afraid to sit with the ugliness, the messiness, and the pain that is life.<br>
 Let us not offer clichés to the grieving, those whose hearts are being torn asunder.<br>
-</quote>
+</quotation>
 
-<p>These lines are excerpts from **[A Litany for Those not Ready for Healing](https://uuwestport.org/a-litany-for-those-not-ready-for-healing-by-dr-yolanda-pierce/)**, Dr. Yolanda Pierce.
+
+
+These lines are excerpts from [**A Litany for Those not Ready for Healing**](https://uuwestport.org/a-litany-for-those-not-ready-for-healing-by-dr-yolanda-pierce/), Dr. Yolanda Pierce.
 
 <!--
 SYNTAX FOR IMAGES
