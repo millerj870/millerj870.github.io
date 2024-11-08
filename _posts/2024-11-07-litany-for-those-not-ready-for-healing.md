@@ -2,8 +2,8 @@
 title: Wise Words After the Election of 2024
 author: Jason
 layout: post
-date: 2022-01-01
-tags: 47th, 
+date: 2024-11-07
+tags: 47, election 
 ---
 
 “Let us not rush to the language of healing, before understanding the fullness of the injury and the depth of the wound.<br>
