@@ -6,7 +6,7 @@ date: 2021-07-07
 tags: R markdown jekyll
 ---
 
-Last week I was writing up [some thoughts](http://thecoldfish.com/2021/07/03/portland-temp-anomaly.html) on trying to understand how unexpected the high temperatures on June 28th in Portland, OR, were.  (They hit 115&deg;F!)  My goal was to think through some quantitative reasoning based on statistics, and I used R to support my calculations.  Today, I realized I should have been able to write that post up in Rmarkdown in RStudio and post it to my Jekyll site (hosted in Github) with graphs and computations so much more easily.  So I sat down to try to figure it out.
+Last week I was writing up [some thoughts](http://thecoldfish.com/2021/07/03/june-28-weather-anomaly.html) on trying to understand how unexpected the high temperatures on June 28th in Portland, OR, were.  (They hit 115&deg;F!)  My goal was to think through some quantitative reasoning based on statistics, and I used R to support my calculations.  Today, I realized I should have been able to write that post up in Rmarkdown in RStudio and post it to my Jekyll site (hosted in Github) with graphs and computations so much more easily.  So I sat down to try to figure it out.
 
 I sat down in front of Google and quickly found two pages with helpful information.
 
