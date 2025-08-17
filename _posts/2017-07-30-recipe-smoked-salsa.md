@@ -3,7 +3,7 @@ author: jason
 date: 2017-07-30 23:30:08+00:00
 layout: post
 title: 'Recipe: Smoked Salsa'
-categories: food
+tags: food, smoker
 ---
 
 There's been a couple threads on the [Traeger Facebook group](https://www.facebook.com/groups/93884743938/?fref=nf) about making salsa on a smoker. Since the number of posts on that group are so ... numerous ... it makes referencing my past posts on the topic hard to find. So I'm going to put my recipe here for easy future reference.
