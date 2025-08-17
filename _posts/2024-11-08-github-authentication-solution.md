@@ -2,7 +2,7 @@
 title: GitHub Authentication Solution
 author: me
 layout: post
-date: 2024-11-08
+date: 2025-08-17
 tags: version-control git writing tower 
 ---
 
@@ -70,6 +70,17 @@ In fact, when I exectued the vanilla `git push` command, it seemed to work!  Whe
 
 So it looks like I found a solution to my authentication problem on MacOS.  Hallelujah!
 
+## Update:  Environment variable
+
+When my authenticaion token (or whatever it's called) expires, and I want to use the above CLI colution, I need to. clear the token from my environment.  The way to do that at the command line is to issue the following command:
+
+```
+unset GH_TOKEN
+```
+
+## Update: It's a short-term Solution
+
+I'm finding that using 'gh auth login' provides a short-term solution to the authentication problem.  Short as in 'one session'.  If I change accounts in Tower, then the benefit of the authentication goes away.  Hmmm.  Need to think about this.
 
 
 
