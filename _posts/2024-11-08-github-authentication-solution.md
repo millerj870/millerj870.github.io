@@ -6,7 +6,7 @@ date: 2024-11-08
 tags: version-control git writing tower 
 ---
 
-I write in Markdown and LaTeX.  These flat file formats allow me to use version control, which I first learned from my Computer Science colleagues at Truman State.  Thanks, dudes!  Some time ago, I adopted the [Tower application](https://www.git-tower.com/windows) as my git environment of choice.  While I can manage git at the command line, I liked the way Tower displays information, and I like its UI with its buttons and menus.
+I write in Markdown and LaTeX.  These flat file formats allow me to use version control, which I first learned from my Computer Science colleagues at Midsized University.  Thanks, dudes!  Some time ago, I adopted the [Tower application](https://www.git-tower.com/windows) as my git environment of choice.  While I can manage git at the command line, I liked the way Tower displays information, and I like its UI with its buttons and menus.
 
 In this age of computer mobility (I have two Macs at home, a Mac laptop, an iPad, and a Mac descktop in my work office), I use GitHub to host my few git repositories.  As long as I have an internet connection, this allows me to work on my writing from wherever I am.  I love it.  It's part of my work method that has become indisensible to me.  Sure, Dropbox and iCloud sync across machines, but that Black Box is too big for me to trust 100% of the time.  When I write, especially for myself, I like to be closer to the metal.
 
